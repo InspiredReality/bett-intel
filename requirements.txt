@@ -1,0 +1,17 @@
+requests==2.31.0
+selenium==4.15.0
+python-dotenv==1.0.0
+schedule==1.2.0
+beautifulsoup4==4.12.0
+lxml==4.9.3
+
+# Optional: If building API
+flask==3.0.0
+flask-cors==4.0.0
+# OR
+fastapi==0.104.0
+uvicorn==0.24.0
+
+# Optional: Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
