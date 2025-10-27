@@ -2,38 +2,6 @@
   "week": 8,
   "games": [
     {
-      "id": "fb900eef07307ebf5c1930341ecd852a",
-      "home_team": "Pittsburgh Steelers",
-      "away_team": "Green Bay Packers",
-      "commence_time": "2025-10-27T00:22:35Z",
-      "odds": {
-        "bookmaker": "DraftKings",
-        "spreads": {
-          "Green Bay Packers": {
-            "line": -9.5,
-            "odds": -4800
-          },
-          "Pittsburgh Steelers": {
-            "line": 9.5,
-            "odds": 1600
-          }
-        },
-        "totals": {
-          "Over": {
-            "line": 60.5,
-            "odds": 900
-          },
-          "Under": {
-            "line": 60.5,
-            "odds": -1850
-          }
-        },
-        "moneyline": {}
-      },
-      "betting_percentages": {},
-      "matchup_stats": {}
-    },
-    {
       "id": "7e3361e84d5223a8d210a887b249f247",
       "home_team": "Kansas City Chiefs",
       "away_team": "Washington Commanders",
@@ -66,7 +34,280 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/commanders-chiefs-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "Value (rank)": "17.7 (#3)"
+            },
+            {
+              "stat": "Yards/Game",
+              "Value (rank)": "280.3 (#4)"
+            },
+            {
+              "stat": "Points/Play",
+              "Value (rank)": "0.334 (#8)"
+            },
+            {
+              "stat": "Yards/Play",
+              "Value (rank)": "5.3 (#13)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "Value (rank)": "35.14% (#5)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "Value (rank)": "28.57% (#2)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "Value (rank)": "58.82% (#15)"
+            },
+            {
+              "stat": "TDs/Game",
+              "Value (rank)": "2.0 (#4)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "Value (rank)": "24.3 (#21)"
+            },
+            {
+              "stat": "Yards/Game",
+              "Value (rank)": "364.3 (#27)"
+            },
+            {
+              "stat": "Points/Play",
+              "Value (rank)": "0.389 (#19)"
+            },
+            {
+              "stat": "Yards/Play",
+              "Value (rank)": "5.8 (#26)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "Value (rank)": "39.13% (#20)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "Value (rank)": "50.00% (#5)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "Value (rank)": "58.33% (#12)"
+            },
+            {
+              "stat": "TDs/Game",
+              "Value (rank)": "2.6 (#17)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "Value (rank)": "43.94% (#20)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "Value (rank)": "4.5 (#22)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "Value (rank)": "23.3 (#9)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "Value (rank)": "105.7 (#13)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "Value (rank)": "0.9 (#15)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "Value (rank)": "46.45% (#24)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "Value (rank)": "4.3 (#18)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "Value (rank)": "29.0 (#26)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "Value (rank)": "126.0 (#21)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "Value (rank)": "0.7 (#10)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "Value (rank)": "56.06% (#13)"
+            },
+            {
+              "stat": "Completion %",
+              "Value (rank)": "69.43% (#28)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "Value (rank)": "6.6 (#8)"
+            },
+            {
+              "stat": "Passes/Game",
+              "Value (rank)": "27.6 (#4)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "Value (rank)": "174.6 (#3)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "Value (rank)": "2.07% (#14)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "Value (rank)": "7.21% (#13)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "Value (rank)": "53.55% (#9)"
+            },
+            {
+              "stat": "Completion %",
+              "Value (rank)": "64.19% (#12)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "Value (rank)": "8.3 (#32)"
+            },
+            {
+              "stat": "Passes/Game",
+              "Value (rank)": "30.7 (#12)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "Value (rank)": "238.3 (#26)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "Value (rank)": "0.93% (#27)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "Value (rank)": "8.12% (#8)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "Value (rank)": "100.00% (#30)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "Value (rank)": "88.24% (#21)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "Value (rank)": "-0.7 (#6)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "Value (rank)": "1.0 (#18)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "Value (rank)": "0.3 (#1)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "Value (rank)": "2.07% (#14)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "Value (rank)": "+0.7 (#29)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "Value (rank)": "0.4 (#30)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "Value (rank)": "1.1 (#18)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "Value (rank)": "0.93% (#27)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "Value (rank)": "0.05 (#23)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "Value (rank)": "5.9 (#25)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "Value (rank)": "50.9 (#24)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "Value (rank)": "8.7 (#8)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "Value (rank)": "0.07 (#6)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "Value (rank)": "8.0 (#7)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "Value (rank)": "65.6 (#5)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "Value (rank)": "8.2 (#12)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "Value (rank)": "46.19% (#4)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "Value (rank)": "53.14% (#28)"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:57:02.184338"
+      }
     },
     {
       "id": "677dbbb6ad96fc5f5b36bb20b43139dd",
@@ -101,7 +342,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/ravens-dolphins-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:57:45.387068"
+      }
     },
     {
       "id": "6dd3b8a705ed0db85d59fa19b9062cc8",
@@ -136,7 +389,66 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/falcons-patriots-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:57:36.576502"
+      }
+    },
+    {
+      "id": "6031b513e188fc19a2311499566c9258",
+      "home_team": "Green Bay Packers",
+      "away_team": "Carolina Panthers",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Carolina Panthers": {
+            "line": 11.5,
+            "odds": -110
+          },
+          "Green Bay Packers": {
+            "line": -11.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 44.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 44.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Carolina Panthers": 525,
+          "Green Bay Packers": -750
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/panthers-packers-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:57:43.815513"
+      }
     },
     {
       "id": "016f76d8237e8d4eb62b9c2ef68381bb",
@@ -171,7 +483,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/bears-bengals-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:57:52.145910"
+      }
     },
     {
       "id": "72e2ce6652bbb3901f60b38bec05bf5f",
@@ -206,7 +530,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/broncos-texans-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:58:00.348516"
+      }
     },
     {
       "id": "cf95657d78ab3e515203df1d19c3b0c2",
@@ -241,7 +577,66 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/vikings-lions-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:58:36.764297"
+      }
+    },
+    {
+      "id": "2340a6e0794d5688996dcf8aaf634742",
+      "home_team": "Pittsburgh Steelers",
+      "away_team": "Indianapolis Colts",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Indianapolis Colts": {
+            "line": -3.0,
+            "odds": -110
+          },
+          "Pittsburgh Steelers": {
+            "line": 3.0,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 49.5,
+            "odds": -115
+          },
+          "Under": {
+            "line": 49.5,
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "Indianapolis Colts": -155,
+          "Pittsburgh Steelers": 130
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/colts-steelers-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:58:50.349240"
+      }
     },
     {
       "id": "b60025aea576e2e89ef7bc7303f847ec",
@@ -276,7 +671,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/chargers-titans-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:58:58.792876"
+      }
     },
     {
       "id": "a788e7cebff4b5fe10034710090e4529",
@@ -311,7 +718,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/49ers-giants-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:59:07.837893"
+      }
     },
     {
       "id": "d0bf341e7959d69b55f1a8ff09065234",
@@ -346,7 +765,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/jaguars-raiders-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:59:16.143868"
+      }
     },
     {
       "id": "b08df670a95f1809707b335dc75081c6",
@@ -381,7 +812,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/saints-rams-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:59:24.845981"
+      }
     },
     {
       "id": "61531628516decd1ee8116da5f6f9056",
@@ -416,7 +859,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/chiefs-bills-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:59:31.818069"
+      }
     },
     {
       "id": "c2fd8a23091a954fb21ff6d3537db826",
@@ -451,7 +906,19 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/seahawks-commanders-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:59:39.585262"
+      }
     },
     {
       "id": "f3dfb574e0a542375a480534525ee6cf",
@@ -486,10 +953,22 @@
         }
       },
       "betting_percentages": {},
-      "matchup_stats": {}
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/cardinals-cowboys-week-8-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Minnesota @ LA Chargers",
+              "Time": "5:15 PM",
+              "Location": "SoFi Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-10-26T22:59:48.322066"
+      }
     }
   ],
-  "last_updated": "2025-10-26T22:41:16.325487",
+  "last_updated": "2025-10-26T22:59:50.436727",
   "data_sources": {
     "odds": "The Odds API",
     "betting_percentages": "SportsBettingDime",

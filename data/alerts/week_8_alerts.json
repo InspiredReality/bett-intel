@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T22:41:16.326903",
-  "total_alerts": 17,
+  "generated_at": "2025-10-26T22:59:50.438973",
+  "total_alerts": 18,
   "alerts": [
     {
       "type": "line_flip",
@@ -43,19 +43,6 @@
     },
     {
       "type": "public_fade",
-      "game": "Green Bay Packers @ Pittsburgh Steelers",
-      "title": "\ud83c\udfaf PUBLIC FADE: 0.0% on underdog",
-      "description": "Extreme public betting on underdog - Consider favorite",
-      "reasoning": "Public tends to overvalue favorites and popular teams",
-      "data": {
-        "bet_pct": 0.0,
-        "fade_side": "favorite"
-      },
-      "priority": "LOW",
-      "game_id": "fb900eef07307ebf5c1930341ecd852a"
-    },
-    {
-      "type": "public_fade",
       "game": "Washington Commanders @ Kansas City Chiefs",
       "title": "\ud83c\udfaf PUBLIC FADE: 0.0% on underdog",
       "description": "Extreme public betting on underdog - Consider favorite",
@@ -95,6 +82,19 @@
     },
     {
       "type": "public_fade",
+      "game": "Carolina Panthers @ Green Bay Packers",
+      "title": "\ud83c\udfaf PUBLIC FADE: 0.0% on underdog",
+      "description": "Extreme public betting on underdog - Consider favorite",
+      "reasoning": "Public tends to overvalue favorites and popular teams",
+      "data": {
+        "bet_pct": 0.0,
+        "fade_side": "favorite"
+      },
+      "priority": "LOW",
+      "game_id": "6031b513e188fc19a2311499566c9258"
+    },
+    {
+      "type": "public_fade",
       "game": "Chicago Bears @ Cincinnati Bengals",
       "title": "\ud83c\udfaf PUBLIC FADE: 0.0% on underdog",
       "description": "Extreme public betting on underdog - Consider favorite",
@@ -131,6 +131,19 @@
       },
       "priority": "LOW",
       "game_id": "cf95657d78ab3e515203df1d19c3b0c2"
+    },
+    {
+      "type": "public_fade",
+      "game": "Indianapolis Colts @ Pittsburgh Steelers",
+      "title": "\ud83c\udfaf PUBLIC FADE: 0.0% on underdog",
+      "description": "Extreme public betting on underdog - Consider favorite",
+      "reasoning": "Public tends to overvalue favorites and popular teams",
+      "data": {
+        "bet_pct": 0.0,
+        "fade_side": "favorite"
+      },
+      "priority": "LOW",
+      "game_id": "2340a6e0794d5688996dcf8aaf634742"
     },
     {
       "type": "public_fade",

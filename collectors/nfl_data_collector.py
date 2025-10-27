@@ -81,16 +81,9 @@ class NFLDataCollector:
     
     def _detect_nfl_week(self) -> int:
         """Auto-detect current NFL week based on season start"""
-        season_start = datetime(2024, 9, 5)  # 2024-25 season
-        now = datetime.now()
-        
-        if now < season_start:
-            return 1
-        
-        days_since_start = (now - season_start).days
-        week = (days_since_start // 7) + 1
-        
-        return min(max(1, week), 18)  # Weeks 1-18
+        # Import here to avoid circular imports
+        from config.settings import get_current_week
+        return get_current_week()
     
     def initialize_driver(self):
         """Initialize Selenium WebDriver"""

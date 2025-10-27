@@ -89,30 +89,49 @@ class NFLAlertEngine:
     
     def _check_line_flip(self, game: Dict):
         """Alert 2: Lines that flipped team favorite"""
-        # This requires historical line data
-        # For now, we'll flag games close to pick'em as potential flips
+        # This requires historical line data to properly detect flips
+        # Check if the game has opening_line and current_line data
         odds = game.get('odds', {})
         spreads = odds.get('spreads', {})
-        
-        for team, spread_data in spreads.items():
-            line = spread_data.get('line', 0)
-            
-            # Flag if line is within 1 point of pick'em (likely to flip)
-            if abs(line) <= 1.5 and line != 0:
-                self.alerts.append({
-                    'type': 'line_flip',
-                    'game': f"{game['away_team']} @ {game['home_team']}",
-                    'title': f"🔄 POTENTIAL LINE FLIP: {team}",
-                    'description': f"Line at {line} - Very close to pick'em, watch for flip",
-                    'reasoning': "Small spreads often flip as money comes in. Monitor for value.",
-                    'data': {
-                        'current_line': line,
-                        'team': team
-                    },
-                    'priority': 'HIGH',
-                    'game_id': game.get('id')
-                })
-                break  # Only alert once per game
+
+        # Look for opening_line in the data (if it exists)
+        opening_line = odds.get('opening_line')
+
+        if not opening_line:
+            # No opening line data available, skip this alert
+            return
+
+        # Get current lines for both teams
+        home_team = game.get('home_team')
+        away_team = game.get('away_team')
+
+        home_spread = spreads.get(home_team, {}).get('line')
+        away_spread = spreads.get(away_team, {}).get('line')
+
+        if not home_spread or not away_spread:
+            return
+
+        # Detect actual flip: opening line and current line have opposite signs
+        # and both are meaningful (not near pick'em)
+        opening_favorite = "home" if opening_line < 0 else "away"
+        current_favorite = "home" if home_spread < 0 else "away"
+
+        if opening_favorite != current_favorite and abs(opening_line) > 1 and abs(home_spread) > 1:
+            flipped_team = home_team if current_favorite == "home" else away_team
+            self.alerts.append({
+                'type': 'line_flip',
+                'game': f"{game['away_team']} @ {game['home_team']}",
+                'title': f"🔄 LINE FLIPPED: {flipped_team} now favored",
+                'description': f"Line moved from {opening_line} to {home_spread} - Favorite switched teams",
+                'reasoning': "Line flips indicate significant sharp money movement. This is a strong signal.",
+                'data': {
+                    'opening_line': opening_line,
+                    'current_line': home_spread,
+                    'flipped_to': flipped_team
+                },
+                'priority': 'HIGH',
+                'game_id': game.get('id')
+            })
     
     def _check_line_movement(self, game: Dict):
         """Alert 3: Lines that moved more than 4 points"""
@@ -273,13 +292,17 @@ class NFLAlertEngine:
     def _check_public_fade(self, game: Dict):
         """Identify opportunities to fade the public"""
         betting = game.get('betting_percentages', {})
-        
+
         bet_pct = self._parse_percentage(betting.get('spread_bet_pct', '0'))
-        
+
+        # Skip if no betting data available
+        if bet_pct == 0:
+            return
+
         if bet_pct >= 75 or bet_pct <= 25:
             side = "favorite" if bet_pct >= 75 else "underdog"
             fade_side = "underdog" if bet_pct >= 75 else "favorite"
-            
+
             self.alerts.append({
                 'type': 'public_fade',
                 'game': f"{game['away_team']} @ {game['home_team']}",
