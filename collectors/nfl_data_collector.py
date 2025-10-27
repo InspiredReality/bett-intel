@@ -95,27 +95,53 @@ class NFLDataCollector:
     def initialize_driver(self):
         """Initialize Selenium WebDriver"""
         print("Initializing browser...")
-        
+
         options = webdriver.ChromeOptions()
-        options.add_argument('--headless')
+        options.add_argument('--headless=new')
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
         options.add_argument('--disable-blink-features=AutomationControlled')
-        options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
-        
+        options.add_argument('--disable-web-security')
+        options.add_argument('--allow-running-insecure-content')
+        options.add_argument('--window-size=1920,1080')
+        options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
+        options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        options.add_experimental_option('useAutomationExtension', False)
+
         try:
             self.driver = webdriver.Chrome(options=options)
+
+            # Hide webdriver property to avoid detection
+            self.driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
+                'source': '''
+                    Object.defineProperty(navigator, 'webdriver', {
+                        get: () => undefined
+                    })
+                '''
+            })
+
             print("✓ Browser initialized")
         except Exception as e:
             print(f"Error initializing browser: {e}")
             print("Trying with webdriver-manager...")
-            
-            from selenium.webdriver.chrome.service import Service
-            from webdriver_manager.chrome import ChromeDriverManager
-            
-            service = Service(ChromeDriverManager().install())
-            self.driver = webdriver.Chrome(service=service, options=options)
-            print("✓ Browser initialized with webdriver-manager")
+
+            try:
+                from selenium.webdriver.chrome.service import Service
+                from webdriver_manager.chrome import ChromeDriverManager
+
+                driver_path = ChromeDriverManager().install()
+                if driver_path is None:
+                    raise Exception("ChromeDriverManager returned None - driver installation failed")
+
+                service = Service(driver_path)
+                self.driver = webdriver.Chrome(service=service, options=options)
+                print("✓ Browser initialized with webdriver-manager")
+            except Exception as webdriver_error:
+                print(f"❌ Failed to initialize Chrome driver: {webdriver_error}")
+                print("\nPlease ensure Chrome/Chromium is installed:")
+                print("  Ubuntu/Debian: sudo apt-get install chromium-browser chromium-chromedriver")
+                print("  or download ChromeDriver from: https://chromedriver.chromium.org/")
+                raise
     
     def get_team_slug(self, team_name: str) -> str:
         """Convert team name to TeamRankings URL slug"""
@@ -254,56 +280,73 @@ class NFLDataCollector:
         
         for idx, game in enumerate(self.data['games'], 1):
             print(f"\n[{idx}/{total_games}] {game['away_team']} @ {game['home_team']}")
-            
+
             away_slug = self.get_team_slug(game['away_team'])
             home_slug = self.get_team_slug(game['home_team'])
-            
+            print(f"  Slugs: {away_slug} @ {home_slug}")
+
             # Try multiple URL patterns
             urls_to_try = [
                 f"https://www.teamrankings.com/nfl/matchup/{away_slug}-{home_slug}-week-{self.nfl_week}-2025/stats",
                 f"https://www.teamrankings.com/nfl/matchup/{away_slug}-at-{home_slug}-week-{self.nfl_week}-2025/stats",
+                f"https://www.teamrankings.com/nfl/matchup/{home_slug}-{away_slug}-week-{self.nfl_week}-2025/stats",
+                f"https://www.teamrankings.com/nfl/matchup/{home_slug}-at-{away_slug}-week-{self.nfl_week}-2025/stats",
             ]
-            
+
             matchup_data = None
-            
+
             for url in urls_to_try:
                 try:
                     print(f"  Trying: {url}")
                     self.driver.get(url)
-                    time.sleep(2)
-                    
-                    if "Page Not Found" in self.driver.title or "404" in self.driver.page_source:
+                    time.sleep(3)
+
+                    # Debug: show page title
+                    page_title = self.driver.title
+                    print(f"    Page title: {page_title}")
+
+                    # Check for 404
+                    if "Page Not Found" in page_title or "404" in page_title or "Not Found" in self.driver.page_source[:500]:
+                        print(f"    ⚠️  404 - Page not found")
                         continue
-                    
-                    wait = WebDriverWait(self.driver, 8)
-                    tables = wait.until(EC.presence_of_all_elements_located(
-                        (By.CSS_SELECTOR, 'table.tr-table')))
-                    
+
+                    # Look for tables with multiple selectors
+                    wait = WebDriverWait(self.driver, 10)
+                    try:
+                        tables = wait.until(EC.presence_of_all_elements_located(
+                            (By.CSS_SELECTOR, 'table.tr-table, table[class*="stat"], table')))
+                    except TimeoutException:
+                        print(f"    ⚠️  Timeout - No tables found")
+                        continue
+
                     if not tables:
+                        print(f"    ⚠️  No tables on page")
                         continue
-                    
+
+                    print(f"    Found {len(tables)} tables, processing...")
+
                     matchup_data = {
                         'url': url,
                         'offense_vs_defense': {},
                         'scraped_at': datetime.now().isoformat()
                     }
-                    
+
                     for table_idx, table in enumerate(tables):
                         try:
                             section_title = f"Table {table_idx + 1}"
                             try:
-                                header = table.find_element(By.XPATH, 
+                                header = table.find_element(By.XPATH,
                                     './preceding-sibling::h2[1] | ./preceding-sibling::h3[1]')
                                 section_title = header.text.strip()
                             except:
                                 pass
-                            
+
                             thead = table.find_element(By.TAG_NAME, 'thead')
                             headers = [th.text.strip() for th in thead.find_elements(By.TAG_NAME, 'th')]
-                            
+
                             tbody = table.find_element(By.TAG_NAME, 'tbody')
                             rows = tbody.find_elements(By.TAG_NAME, 'tr')
-                            
+
                             table_data = []
                             for row in rows:
                                 cells = row.find_elements(By.TAG_NAME, 'td')
@@ -314,20 +357,24 @@ class NFLDataCollector:
                                         headers[2] if len(headers) > 2 else 'home': cells[2].text.strip()
                                     }
                                     table_data.append(row_data)
-                            
+
                             if table_data:
                                 matchup_data['offense_vs_defense'][section_title] = table_data
-                        
+
                         except Exception as e:
+                            print(f"    ⚠️  Error processing table {table_idx}: {e}")
                             continue
-                    
+
                     if matchup_data['offense_vs_defense']:
                         game['matchup_stats'] = matchup_data
                         success_count += 1
                         print(f"  ✓ Success! Collected {len(matchup_data['offense_vs_defense'])} stat tables")
                         break
-                    
+                    else:
+                        print(f"    ⚠️  No data extracted from tables")
+
                 except Exception as e:
+                    print(f"    ❌ Error: {e}")
                     continue
             
             if not matchup_data or not matchup_data.get('offense_vs_defense'):

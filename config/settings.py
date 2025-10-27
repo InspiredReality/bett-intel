@@ -33,7 +33,7 @@ CHROMEDRIVER_PATH = os.getenv('CHROMEDRIVER_PATH', None)
 SAVE_HISTORICAL = os.getenv('SAVE_HISTORICAL', 'true').lower() == 'true'
 
 # NFL Season settings
-NFL_SEASON_START = datetime(2024, 9, 5)  # 2024-25 season start
+NFL_SEASON_START = datetime(2025, 9, 4)  # 2025-26 season start
 
 
 def get_current_week() -> int:
