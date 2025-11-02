@@ -334,22 +334,38 @@ class NFLDataCollector:
                             except:
                                 pass
 
-                            thead = table.find_element(By.TAG_NAME, 'thead')
-                            headers = [th.text.strip() for th in thead.find_elements(By.TAG_NAME, 'th')]
+                            # Check if table has thead and tbody
+                            try:
+                                thead = table.find_element(By.TAG_NAME, 'thead')
+                                headers = [th.text.strip() for th in thead.find_elements(By.TAG_NAME, 'th')]
+                            except:
+                                # Skip tables without proper headers
+                                continue
 
-                            tbody = table.find_element(By.TAG_NAME, 'tbody')
-                            rows = tbody.find_elements(By.TAG_NAME, 'tr')
+                            try:
+                                tbody = table.find_element(By.TAG_NAME, 'tbody')
+                                rows = tbody.find_elements(By.TAG_NAME, 'tr')
+                            except:
+                                # Skip tables without tbody
+                                continue
+
+                            if not rows:
+                                continue
 
                             table_data = []
                             for row in rows:
-                                cells = row.find_elements(By.TAG_NAME, 'td')
-                                if len(cells) >= 3:
-                                    row_data = {
-                                        'stat': cells[0].text.strip(),
-                                        headers[1] if len(headers) > 1 else 'away': cells[1].text.strip(),
-                                        headers[2] if len(headers) > 2 else 'home': cells[2].text.strip()
-                                    }
-                                    table_data.append(row_data)
+                                try:
+                                    cells = row.find_elements(By.TAG_NAME, 'td')
+                                    if len(cells) >= 3:
+                                        row_data = {
+                                            'stat': cells[0].text.strip(),
+                                            'away': cells[1].text.strip(),
+                                            'home': cells[2].text.strip()
+                                        }
+                                        table_data.append(row_data)
+                                except Exception as row_error:
+                                    # Skip problematic rows
+                                    continue
 
                             if table_data:
                                 matchup_data['offense_vs_defense'][section_title] = table_data

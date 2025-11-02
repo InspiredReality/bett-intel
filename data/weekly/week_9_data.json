@@ -1,0 +1,5453 @@
+{
+  "week": 9,
+  "games": [
+    {
+      "id": "6dd3b8a705ed0db85d59fa19b9062cc8",
+      "home_team": "New England Patriots",
+      "away_team": "Atlanta Falcons",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Atlanta Falcons": {
+            "line": 4.5,
+            "odds": -110
+          },
+          "New England Patriots": {
+            "line": -4.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -108
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "Atlanta Falcons": 195,
+          "New England Patriots": -238
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/falcons-patriots-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "17.1 (#28)",
+              "home": "18.3 (#4)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "342.7 (#14)",
+              "home": "300.4 (#9)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.273 (#28)",
+              "home": "0.330 (#7)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.5 (#15)",
+              "home": "5.4 (#18)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "39.33% (#14)",
+              "home": "36.47% (#10)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "40.00% (#29)",
+              "home": "27.27% (#2)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "45.00% (#29)",
+              "home": "70.59% (#31)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "1.7 (#29)",
+              "home": "2.0 (#5)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "26.6 (#8)",
+              "home": "22.0 (#13)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "353.1 (#10)",
+              "home": "275.6 (#2)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.439 (#10)",
+              "home": "0.392 (#19)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.8 (#8)",
+              "home": "4.9 (#7)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "39.78% (#12)",
+              "home": "39.51% (#21)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "83.33% (#1)",
+              "home": "70.00% (#26)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "55.17% (#19)",
+              "home": "68.75% (#28)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.1 (#8)",
+              "home": "2.3 (#12)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "44.65% (#14)",
+              "home": "39.05% (#9)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.4 (#16)",
+              "home": "3.5 (#2)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "28.0 (#10)",
+              "home": "21.6 (#2)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "123.3 (#11)",
+              "home": "76.0 (#2)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.0 (#12)",
+              "home": "0.4 (#3)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "47.22% (#7)",
+              "home": "49.36% (#28)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.9 (#25)",
+              "home": "4.6 (#23)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "28.6 (#7)",
+              "home": "27.7 (#23)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "112.6 (#18)",
+              "home": "126.4 (#22)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.9 (#15)",
+              "home": "0.6 (#8)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "55.35% (#19)",
+              "home": "60.95% (#24)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "62.23% (#26)",
+              "home": "70.52% (#29)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.9 (#22)",
+              "home": "7.6 (#25)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "33.3 (#15)",
+              "home": "31.4 (#14)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "219.4 (#13)",
+              "home": "224.4 (#19)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.29% (#7)",
+              "home": "2.79% (#9)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "4.12% (#4)",
+              "home": "7.04% (#15)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "52.78% (#26)",
+              "home": "50.64% (#5)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "75.00% (#1)",
+              "home": "61.75% (#5)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "8.9 (#2)",
+              "home": "6.2 (#2)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "28.5 (#29)",
+              "home": "26.1 (#1)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "240.5 (#9)",
+              "home": "149.1 (#1)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.32% (#8)",
+              "home": "3.28% (#4)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "10.94% (#29)",
+              "home": "8.04% (#9)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "75.00% (#27)",
+              "home": "80.00% (#10)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "92.31% (#6)",
+              "home": "93.33% (#25)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.3 (#11)",
+              "home": "-0.3 (#13)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.0 (#11)",
+              "home": "1.4 (#9)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.3 (#10)",
+              "home": "1.1 (#16)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.29% (#7)",
+              "home": "2.79% (#9)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.3 (#13)",
+              "home": "-0.3 (#11)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.1 (#16)",
+              "home": "1.3 (#10)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.4 (#9)",
+              "home": "1.0 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.32% (#8)",
+              "home": "3.28% (#4)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#6)",
+              "home": "0.06 (#9)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "5.9 (#4)",
+              "home": "7.4 (#13)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "43.7 (#2)",
+              "home": "54.0 (#20)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.5 (#5)",
+              "home": "7.3 (#25)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.07 (#30)",
+              "home": "0.05 (#26)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "8.1 (#28)",
+              "home": "5.7 (#26)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "62.6 (#27)",
+              "home": "51.1 (#24)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.7 (#10)",
+              "home": "9.0 (#5)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "51.32% (#12)",
+              "home": "47.39% (#8)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "52.61% (#8)",
+              "home": "48.68% (#12)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:19:52.375915"
+      }
+    },
+    {
+      "id": "6031b513e188fc19a2311499566c9258",
+      "home_team": "Green Bay Packers",
+      "away_team": "Carolina Panthers",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Carolina Panthers": {
+            "line": 12.5,
+            "odds": -102
+          },
+          "Green Bay Packers": {
+            "line": -12.5,
+            "odds": -118
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 43.5,
+            "odds": -118
+          },
+          "Under": {
+            "line": 43.5,
+            "odds": -102
+          }
+        },
+        "moneyline": {
+          "Carolina Panthers": 625,
+          "Green Bay Packers": -950
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/panthers-packers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "19.3 (#27)",
+              "home": "21.4 (#10)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "316.4 (#21)",
+              "home": "289.4 (#6)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.298 (#27)",
+              "home": "0.339 (#9)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "4.9 (#29)",
+              "home": "4.6 (#2)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "37.25% (#23)",
+              "home": "34.04% (#5)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "68.42% (#9)",
+              "home": "60.00% (#17)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "58.33% (#13)",
+              "home": "63.16% (#22)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.1 (#25)",
+              "home": "2.1 (#7)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "27.6 (#5)",
+              "home": "24.0 (#20)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "359.1 (#7)",
+              "home": "310.0 (#11)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.453 (#9)",
+              "home": "0.426 (#26)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.9 (#5)",
+              "home": "5.5 (#22)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "48.28% (#2)",
+              "home": "42.11% (#26)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "75.00% (#7)",
+              "home": "63.64% (#22)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "70.00% (#7)",
+              "home": "58.33% (#13)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.1 (#7)",
+              "home": "2.8 (#21)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "45.74% (#8)",
+              "home": "33.41% (#1)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.6 (#10)",
+              "home": "3.7 (#4)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "29.5 (#3)",
+              "home": "21.1 (#1)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "136.9 (#5)",
+              "home": "78.9 (#3)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.5 (#24)",
+              "home": "0.4 (#5)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "47.65% (#4)",
+              "home": "43.02% (#17)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.9 (#24)",
+              "home": "4.6 (#24)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "29.0 (#5)",
+              "home": "24.3 (#11)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "114.1 (#16)",
+              "home": "111.6 (#16)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.3 (#4)",
+              "home": "1.1 (#23)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "54.26% (#25)",
+              "home": "66.59% (#32)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "62.45% (#25)",
+              "home": "67.52% (#23)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.1 (#28)",
+              "home": "5.9 (#1)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "32.6 (#16)",
+              "home": "39.1 (#30)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "179.5 (#29)",
+              "home": "210.6 (#15)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.30% (#20)",
+              "home": "0.73% (#29)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "6.79% (#20)",
+              "home": "7.12% (#13)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "52.35% (#29)",
+              "home": "56.98% (#16)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "70.89% (#3)",
+              "home": "63.52% (#9)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "8.4 (#3)",
+              "home": "6.9 (#14)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "30.4 (#22)",
+              "home": "30.5 (#11)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "245.0 (#7)",
+              "home": "198.4 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "0.94% (#4)",
+              "home": "2.46% (#14)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "4.48% (#7)",
+              "home": "5.06% (#26)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "86.67% (#14)",
+              "home": "77.78% (#8)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "76.47% (#24)",
+              "home": "86.67% (#18)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.6 (#27)",
+              "home": "-0.1 (#14)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.5 (#25)",
+              "home": "0.6 (#31)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.9 (#22)",
+              "home": "0.4 (#2)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.30% (#20)",
+              "home": "0.73% (#29)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.1 (#14)",
+              "home": "+0.6 (#27)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.4 (#2)",
+              "home": "0.9 (#22)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.6 (#31)",
+              "home": "1.5 (#25)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "0.94% (#4)",
+              "home": "2.46% (#14)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#4)",
+              "home": "0.05 (#20)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "5.8 (#3)",
+              "home": "6.6 (#20)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "46.3 (#6)",
+              "home": "56.0 (#16)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.0 (#16)",
+              "home": "8.5 (#11)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#26)",
+              "home": "0.06 (#12)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.9 (#24)",
+              "home": "7.5 (#9)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "60.9 (#24)",
+              "home": "56.6 (#13)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.7 (#11)",
+              "home": "7.6 (#22)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "52.97% (#6)",
+              "home": "49.40% (#15)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "50.60% (#15)",
+              "home": "47.03% (#6)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:20:14.304712"
+      }
+    },
+    {
+      "id": "016f76d8237e8d4eb62b9c2ef68381bb",
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Chicago Bears",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Chicago Bears": {
+            "line": -2.5,
+            "odds": -118
+          },
+          "Cincinnati Bengals": {
+            "line": 2.5,
+            "odds": -102
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 51.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 51.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Chicago Bears": -148,
+          "Cincinnati Bengals": 124
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/bears-bengals-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "24.0 (#15)",
+              "home": "31.6 (#32)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "350.1 (#12)",
+              "home": "407.9 (#32)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.385 (#17)",
+              "home": "0.483 (#32)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.6 (#13)",
+              "home": "6.2 (#32)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "41.11% (#9)",
+              "home": "48.48% (#31)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "37.50% (#31)",
+              "home": "60.00% (#17)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "47.83% (#27)",
+              "home": "70.27% (#30)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.4 (#18)",
+              "home": "3.9 (#32)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "21.8 (#21)",
+              "home": "26.4 (#25)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "284.9 (#29)",
+              "home": "350.7 (#25)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.379 (#18)",
+              "home": "0.465 (#29)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.0 (#25)",
+              "home": "6.2 (#30)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "39.39% (#13)",
+              "home": "31.88% (#2)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "80.00% (#4)",
+              "home": "55.56% (#12)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "68.18% (#9)",
+              "home": "64.00% (#25)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.5 (#17)",
+              "home": "3.1 (#29)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "45.41% (#12)",
+              "home": "46.37% (#24)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.4 (#15)",
+              "home": "5.0 (#28)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "28.3 (#8)",
+              "home": "30.4 (#30)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "124.6 (#10)",
+              "home": "151.9 (#32)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.0 (#12)",
+              "home": "1.3 (#24)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "33.55% (#32)",
+              "home": "47.74% (#26)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.3 (#17)",
+              "home": "5.3 (#30)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "19.3 (#32)",
+              "home": "27.1 (#20)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "82.9 (#31)",
+              "home": "143.3 (#27)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.6 (#22)",
+              "home": "0.9 (#16)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "54.59% (#21)",
+              "home": "53.63% (#9)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "61.95% (#28)",
+              "home": "68.15% (#25)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.4 (#11)",
+              "home": "7.8 (#29)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "32.3 (#17)",
+              "home": "33.8 (#20)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "225.6 (#10)",
+              "home": "256.0 (#30)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.77% (#13)",
+              "home": "2.96% (#6)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "5.04% (#9)",
+              "home": "3.91% (#29)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "66.45% (#1)",
+              "home": "52.26% (#7)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "63.64% (#23)",
+              "home": "72.16% (#30)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.0 (#29)",
+              "home": "7.8 (#30)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "35.8 (#7)",
+              "home": "27.7 (#5)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "202.0 (#21)",
+              "home": "207.4 (#13)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.80% (#28)",
+              "home": "5.67% (#1)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "6.23% (#16)",
+              "home": "6.73% (#19)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "85.00% (#17)",
+              "home": "91.67% (#24)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "84.62% (#18)",
+              "home": "71.43% (#3)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+1.4 (#1)",
+              "home": "+0.3 (#19)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.9 (#7)",
+              "home": "1.1 (#16)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "2.3 (#1)",
+              "home": "1.4 (#23)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.77% (#13)",
+              "home": "2.96% (#6)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.3 (#19)",
+              "home": "-1.4 (#1)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.4 (#23)",
+              "home": "2.3 (#1)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.1 (#16)",
+              "home": "0.9 (#7)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.80% (#28)",
+              "home": "5.67% (#1)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.08 (#32)",
+              "home": "0.06 (#17)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "9.1 (#31)",
+              "home": "7.1 (#17)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "76.1 (#31)",
+              "home": "58.1 (#11)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.3 (#26)",
+              "home": "8.2 (#14)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.04 (#1)",
+              "home": "0.04 (#31)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "5.0 (#1)",
+              "home": "5.1 (#31)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "33.6 (#1)",
+              "home": "36.3 (#30)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "6.7 (#1)",
+              "home": "7.1 (#28)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "51.67% (#10)",
+              "home": "55.02% (#32)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "44.98% (#32)",
+              "home": "48.33% (#10)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:20:26.755447"
+      }
+    },
+    {
+      "id": "72e2ce6652bbb3901f60b38bec05bf5f",
+      "home_team": "Houston Texans",
+      "away_team": "Denver Broncos",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Denver Broncos": {
+            "line": 1.5,
+            "odds": -110
+          },
+          "Houston Texans": {
+            "line": -1.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 40.5,
+            "odds": -102
+          },
+          "Under": {
+            "line": 40.5,
+            "odds": -118
+          }
+        },
+        "moneyline": {
+          "Denver Broncos": 102,
+          "Houston Texans": -122
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/broncos-texans-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "25.9 (#10)",
+              "home": "14.7 (#1)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "356.9 (#9)",
+              "home": "266.9 (#1)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.404 (#13)",
+              "home": "0.263 (#2)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.6 (#14)",
+              "home": "4.8 (#5)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "37.86% (#20)",
+              "home": "32.14% (#3)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "50.00% (#23)",
+              "home": "57.14% (#13)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "70.37% (#6)",
+              "home": "70.59% (#31)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.1 (#8)",
+              "home": "1.9 (#3)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "21.9 (#19)",
+              "home": "18.9 (#5)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "328.7 (#17)",
+              "home": "281.4 (#5)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.350 (#21)",
+              "home": "0.306 (#5)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.3 (#20)",
+              "home": "4.6 (#1)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "35.16% (#25)",
+              "home": "29.91% (#1)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "66.67% (#10)",
+              "home": "50.00% (#5)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "42.11% (#31)",
+              "home": "40.00% (#1)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.1 (#24)",
+              "home": "1.8 (#2)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "42.89% (#17)",
+              "home": "40.56% (#13)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "5.0 (#6)",
+              "home": "3.9 (#7)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "27.5 (#12)",
+              "home": "22.7 (#5)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "137.8 (#3)",
+              "home": "88.4 (#5)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.3 (#5)",
+              "home": "1.0 (#19)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "42.56% (#18)",
+              "home": "40.69% (#14)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.3 (#19)",
+              "home": "3.8 (#5)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "26.6 (#15)",
+              "home": "25.1 (#13)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "113.4 (#17)",
+              "home": "95.1 (#10)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#26)",
+              "home": "0.8 (#13)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "57.12% (#16)",
+              "home": "59.44% (#20)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "62.81% (#24)",
+              "home": "58.06% (#2)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.3 (#25)",
+              "home": "6.3 (#3)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "35.6 (#8)",
+              "home": "31.0 (#12)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "219.1 (#14)",
+              "home": "178.4 (#4)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.75% (#12)",
+              "home": "3.69% (#3)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "2.73% (#1)",
+              "home": "6.87% (#17)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "57.44% (#15)",
+              "home": "59.31% (#19)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "66.53% (#15)",
+              "home": "56.81% (#1)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.0 (#20)",
+              "home": "6.6 (#8)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "33.7 (#13)",
+              "home": "32.1 (#16)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "215.3 (#16)",
+              "home": "186.3 (#7)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.12% (#17)",
+              "home": "1.56% (#23)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "5.98% (#13)",
+              "home": "12.29% (#1)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "90.91% (#9)",
+              "home": "40.00% (#1)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "89.47% (#11)",
+              "home": "100.00% (#30)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.1 (#16)",
+              "home": "-0.6 (#7)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.0 (#11)",
+              "home": "1.6 (#3)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.9 (#22)",
+              "home": "1.0 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.75% (#12)",
+              "home": "3.69% (#3)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.6 (#7)",
+              "home": "+0.1 (#16)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.0 (#11)",
+              "home": "0.9 (#22)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.6 (#3)",
+              "home": "1.0 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.12% (#17)",
+              "home": "1.56% (#23)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.07 (#29)",
+              "home": "0.06 (#11)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "8.5 (#30)",
+              "home": "7.4 (#10)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "77.1 (#32)",
+              "home": "54.6 (#19)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "9.1 (#32)",
+              "home": "7.3 (#24)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#24)",
+              "home": "0.07 (#7)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.4 (#21)",
+              "home": "8.3 (#5)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "61.0 (#25)",
+              "home": "59.4 (#9)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.2 (#21)",
+              "home": "7.2 (#27)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "50.66% (#14)",
+              "home": "45.96% (#4)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "54.04% (#4)",
+              "home": "49.34% (#14)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:20:39.330705"
+      }
+    },
+    {
+      "id": "cf95657d78ab3e515203df1d19c3b0c2",
+      "home_team": "Detroit Lions",
+      "away_team": "Minnesota Vikings",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Detroit Lions": {
+            "line": -8.5,
+            "odds": -118
+          },
+          "Minnesota Vikings": {
+            "line": 8.5,
+            "odds": -102
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 47.5,
+            "odds": -115
+          },
+          "Under": {
+            "line": 47.5,
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "Detroit Lions": -520,
+          "Minnesota Vikings": 390
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/vikings-lions-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "22.1 (#18)",
+              "home": "21.6 (#11)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "296.6 (#26)",
+              "home": "300.0 (#8)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.388 (#16)",
+              "home": "0.363 (#12)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.2 (#21)",
+              "home": "5.0 (#8)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "33.33% (#27)",
+              "home": "37.65% (#14)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "62.50% (#13)",
+              "home": "46.15% (#4)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "54.55% (#20)",
+              "home": "63.64% (#24)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.3 (#21)",
+              "home": "2.7 (#19)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "30.7 (#3)",
+              "home": "23.1 (#19)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "357.3 (#8)",
+              "home": "318.4 (#14)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.507 (#2)",
+              "home": "0.388 (#18)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.9 (#6)",
+              "home": "5.3 (#15)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "37.65% (#22)",
+              "home": "36.05% (#9)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "61.54% (#14)",
+              "home": "62.50% (#20)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "72.41% (#4)",
+              "home": "52.38% (#8)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.9 (#2)",
+              "home": "2.6 (#17)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "38.25% (#29)",
+              "home": "37.26% (#4)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.3 (#18)",
+              "home": "4.0 (#11)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "21.9 (#30)",
+              "home": "22.1 (#4)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "93.9 (#26)",
+              "home": "87.7 (#4)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.7 (#20)",
+              "home": "0.7 (#10)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "48.82% (#3)",
+              "home": "51.08% (#32)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.5 (#11)",
+              "home": "4.3 (#16)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "29.6 (#2)",
+              "home": "30.4 (#31)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "133.7 (#8)",
+              "home": "130.4 (#24)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.4 (#3)",
+              "home": "0.7 (#10)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "61.75% (#4)",
+              "home": "62.74% (#29)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "63.93% (#21)",
+              "home": "63.03% (#8)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.3 (#14)",
+              "home": "6.8 (#13)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "31.3 (#20)",
+              "home": "34.0 (#22)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "202.7 (#20)",
+              "home": "212.3 (#16)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "3.65% (#30)",
+              "home": "2.94% (#7)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "11.34% (#31)",
+              "home": "8.81% (#6)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "51.18% (#30)",
+              "home": "48.92% (#1)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "75.00% (#1)",
+              "home": "68.28% (#26)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "8.0 (#5)",
+              "home": "7.7 (#27)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "29.1 (#26)",
+              "home": "26.6 (#2)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "223.6 (#12)",
+              "home": "188.0 (#8)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.47% (#10)",
+              "home": "1.61% (#19)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "5.99% (#14)",
+              "home": "8.82% (#5)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "87.50% (#12)",
+              "home": "87.50% (#19)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "72.73% (#28)",
+              "home": "75.00% (#5)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.6 (#25)",
+              "home": "-0.9 (#5)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.7 (#30)",
+              "home": "1.6 (#3)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.1 (#13)",
+              "home": "0.7 (#6)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "3.65% (#30)",
+              "home": "2.94% (#7)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.9 (#5)",
+              "home": "+0.6 (#25)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.7 (#6)",
+              "home": "1.1 (#13)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.6 (#3)",
+              "home": "1.7 (#30)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.47% (#10)",
+              "home": "1.61% (#19)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.07 (#28)",
+              "home": "0.04 (#32)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.9 (#24)",
+              "home": "4.7 (#32)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "61.9 (#26)",
+              "home": "29.9 (#32)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.9 (#12)",
+              "home": "6.3 (#32)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#7)",
+              "home": "0.06 (#8)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.0 (#5)",
+              "home": "7.4 (#10)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "45.0 (#4)",
+              "home": "60.6 (#7)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.5 (#6)",
+              "home": "8.2 (#15)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "47.52% (#24)",
+              "home": "46.98% (#5)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "53.02% (#5)",
+              "home": "52.48% (#24)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:20:52.999475"
+      }
+    },
+    {
+      "id": "2340a6e0794d5688996dcf8aaf634742",
+      "home_team": "Pittsburgh Steelers",
+      "away_team": "Indianapolis Colts",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Indianapolis Colts": {
+            "line": -3.5,
+            "odds": -108
+          },
+          "Pittsburgh Steelers": {
+            "line": 3.5,
+            "odds": -112
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 50.5,
+            "odds": -120
+          },
+          "Under": {
+            "line": 50.5,
+            "odds": 100
+          }
+        },
+        "moneyline": {
+          "Indianapolis Colts": -185,
+          "Pittsburgh Steelers": 154
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/colts-steelers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "33.8 (#1)",
+              "home": "25.0 (#22)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "385.3 (#1)",
+              "home": "386.0 (#30)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.573 (#1)",
+              "home": "0.365 (#15)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "6.5 (#1)",
+              "home": "5.6 (#24)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "45.35% (#4)",
+              "home": "41.84% (#25)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "83.33% (#1)",
+              "home": "66.67% (#24)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "68.42% (#8)",
+              "home": "50.00% (#4)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "4.0 (#1)",
+              "home": "2.6 (#17)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "25.0 (#12)",
+              "home": "19.3 (#6)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "297.1 (#25)",
+              "home": "345.1 (#24)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.456 (#7)",
+              "home": "0.301 (#4)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.4 (#16)",
+              "home": "5.4 (#17)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "38.96% (#15)",
+              "home": "47.12% (#30)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "50.00% (#23)",
+              "home": "50.00% (#5)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "73.68% (#3)",
+              "home": "61.54% (#19)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.7 (#14)",
+              "home": "2.3 (#8)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "45.44% (#11)",
+              "home": "38.20% (#7)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "5.0 (#5)",
+              "home": "4.3 (#17)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "26.8 (#14)",
+              "home": "26.1 (#15)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "134.4 (#7)",
+              "home": "112.7 (#18)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "2.3 (#1)",
+              "home": "0.7 (#10)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "42.19% (#19)",
+              "home": "34.25% (#2)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.1 (#22)",
+              "home": "4.3 (#15)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "23.1 (#28)",
+              "home": "21.9 (#3)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "94.3 (#25)",
+              "home": "93.1 (#8)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#26)",
+              "home": "0.5 (#6)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "54.56% (#22)",
+              "home": "61.80% (#26)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "70.16% (#7)",
+              "home": "67.52% (#23)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "8.4 (#4)",
+              "home": "7.5 (#24)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "31.0 (#21)",
+              "home": "39.1 (#30)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "250.9 (#6)",
+              "home": "273.3 (#32)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.21% (#5)",
+              "home": "1.82% (#16)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "3.50% (#3)",
+              "home": "7.43% (#12)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "57.81% (#14)",
+              "home": "65.75% (#31)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "68.57% (#8)",
+              "home": "65.18% (#14)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.1 (#16)",
+              "home": "6.9 (#16)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "30.0 (#23)",
+              "home": "39.1 (#29)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "202.9 (#19)",
+              "home": "252.0 (#29)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.38% (#23)",
+              "home": "3.19% (#5)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "5.41% (#11)",
+              "home": "6.85% (#18)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "94.12% (#5)",
+              "home": "82.35% (#12)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "87.50% (#12)",
+              "home": "64.29% (#2)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+1.0 (#3)",
+              "home": "-0.6 (#7)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.5 (#3)",
+              "home": "1.4 (#7)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.5 (#5)",
+              "home": "0.9 (#7)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.21% (#5)",
+              "home": "1.82% (#16)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.6 (#7)",
+              "home": "-1.0 (#3)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.9 (#7)",
+              "home": "1.5 (#5)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.4 (#7)",
+              "home": "0.5 (#3)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.38% (#23)",
+              "home": "3.19% (#5)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#10)",
+              "home": "0.05 (#29)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.3 (#9)",
+              "home": "5.6 (#28)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "51.9 (#11)",
+              "home": "49.4 (#25)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.3 (#25)",
+              "home": "8.9 (#8)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#5)",
+              "home": "0.05 (#25)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.0 (#5)",
+              "home": "6.0 (#24)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "45.4 (#5)",
+              "home": "53.5 (#21)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.6 (#7)",
+              "home": "8.9 (#6)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "48.64% (#21)",
+              "home": "54.13% (#31)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "45.87% (#31)",
+              "home": "51.36% (#21)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:21:05.099614"
+      }
+    },
+    {
+      "id": "b60025aea576e2e89ef7bc7303f847ec",
+      "home_team": "Tennessee Titans",
+      "away_team": "Los Angeles Chargers",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Los Angeles Chargers": {
+            "line": -9.5,
+            "odds": -112
+          },
+          "Tennessee Titans": {
+            "line": 9.5,
+            "odds": -108
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 43.5,
+            "odds": -118
+          },
+          "Under": {
+            "line": 43.5,
+            "odds": -102
+          }
+        },
+        "moneyline": {
+          "Los Angeles Chargers": -575,
+          "Tennessee Titans": 425
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/chargers-titans-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "23.5 (#16)",
+              "home": "28.8 (#30)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "378.5 (#4)",
+              "home": "358.4 (#26)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.357 (#19)",
+              "home": "0.474 (#30)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.8 (#11)",
+              "home": "5.9 (#28)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "48.67% (#1)",
+              "home": "40.00% (#22)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "70.00% (#8)",
+              "home": "83.33% (#31)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "46.43% (#28)",
+              "home": "60.00% (#15)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.4 (#20)",
+              "home": "3.5 (#30)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "13.8 (#32)",
+              "home": "21.6 (#12)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "248.8 (#32)",
+              "home": "296.9 (#7)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.233 (#32)",
+              "home": "0.379 (#17)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "4.2 (#31)",
+              "home": "5.2 (#10)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "29.91% (#32)",
+              "home": "38.00% (#15)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "38.46% (#30)",
+              "home": "69.23% (#25)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "50.00% (#23)",
+              "home": "51.85% (#6)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "1.1 (#32)",
+              "home": "2.3 (#8)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "38.59% (#28)",
+              "home": "48.04% (#27)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.9 (#7)",
+              "home": "4.9 (#26)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "25.4 (#22)",
+              "home": "29.1 (#26)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "123.1 (#12)",
+              "home": "142.6 (#26)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#29)",
+              "home": "1.8 (#32)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "34.75% (#31)",
+              "home": "39.91% (#11)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.9 (#26)",
+              "home": "4.9 (#27)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "20.5 (#31)",
+              "home": "22.8 (#6)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "80.4 (#32)",
+              "home": "112.4 (#17)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#29)",
+              "home": "1.3 (#24)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "61.41% (#5)",
+              "home": "51.96% (#6)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "68.00% (#9)",
+              "home": "72.46% (#31)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.3 (#13)",
+              "home": "7.8 (#28)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "37.5 (#2)",
+              "home": "29.5 (#9)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "255.4 (#4)",
+              "home": "215.8 (#17)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.33% (#21)",
+              "home": "1.69% (#18)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "7.12% (#21)",
+              "home": "6.35% (#21)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "65.25% (#2)",
+              "home": "60.09% (#22)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "57.66% (#32)",
+              "home": "61.11% (#4)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "5.9 (#31)",
+              "home": "6.3 (#4)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "34.3 (#12)",
+              "home": "31.5 (#15)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "168.4 (#31)",
+              "home": "184.5 (#6)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.19% (#19)",
+              "home": "2.78% (#10)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "11.04% (#30)",
+              "home": "8.03% (#10)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "94.74% (#4)",
+              "home": "85.71% (#15)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "76.19% (#26)",
+              "home": "88.89% (#23)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.4 (#21)",
+              "home": "+0.5 (#23)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.4 (#23)",
+              "home": "1.1 (#16)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.0 (#19)",
+              "home": "1.6 (#28)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.33% (#21)",
+              "home": "1.69% (#18)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.5 (#23)",
+              "home": "+0.4 (#21)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.6 (#28)",
+              "home": "1.0 (#19)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.1 (#16)",
+              "home": "1.4 (#23)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.19% (#19)",
+              "home": "2.78% (#10)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#22)",
+              "home": "0.04 (#30)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.5 (#22)",
+              "home": "5.3 (#30)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "53.1 (#15)",
+              "home": "36.1 (#31)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.1 (#3)",
+              "home": "6.9 (#30)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#17)",
+              "home": "0.06 (#19)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.8 (#16)",
+              "home": "6.9 (#18)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "51.8 (#10)",
+              "home": "56.5 (#14)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.7 (#9)",
+              "home": "8.2 (#13)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "55.01% (#2)",
+              "home": "53.50% (#29)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "46.50% (#29)",
+              "home": "44.99% (#2)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:21:15.750480"
+      }
+    },
+    {
+      "id": "a788e7cebff4b5fe10034710090e4529",
+      "home_team": "New York Giants",
+      "away_team": "San Francisco 49ers",
+      "commence_time": "2025-11-02T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "New York Giants": {
+            "line": 2.5,
+            "odds": -105
+          },
+          "San Francisco 49ers": {
+            "line": -2.5,
+            "odds": -115
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 48.5,
+            "odds": 100
+          },
+          "Under": {
+            "line": 48.5,
+            "odds": -120
+          }
+        },
+        "moneyline": {
+          "New York Giants": 120,
+          "San Francisco 49ers": -142
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/49ers-giants-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "20.0 (#25)",
+              "home": "26.9 (#26)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "348.6 (#13)",
+              "home": "382.4 (#29)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.305 (#26)",
+              "home": "0.412 (#23)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.3 (#18)",
+              "home": "5.9 (#26)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "46.36% (#3)",
+              "home": "37.11% (#13)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "54.55% (#19)",
+              "home": "87.50% (#32)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "52.00% (#21)",
+              "home": "68.00% (#27)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "1.9 (#27)",
+              "home": "3.0 (#24)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "21.6 (#22)",
+              "home": "20.5 (#8)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "325.3 (#18)",
+              "home": "337.1 (#22)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.337 (#24)",
+              "home": "0.333 (#8)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.1 (#24)",
+              "home": "5.5 (#20)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "39.81% (#11)",
+              "home": "38.95% (#19)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "52.94% (#21)",
+              "home": "63.64% (#22)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "48.15% (#26)",
+              "home": "52.00% (#7)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.6 (#15)",
+              "home": "2.3 (#8)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "40.00% (#22)",
+              "home": "39.85% (#10)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.4 (#32)",
+              "home": "5.7 (#32)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "26.3 (#17)",
+              "home": "26.0 (#14)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "89.4 (#30)",
+              "home": "148.9 (#30)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#29)",
+              "home": "1.3 (#24)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "45.61% (#9)",
+              "home": "43.41% (#20)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.0 (#23)",
+              "home": "4.0 (#13)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "29.3 (#4)",
+              "home": "26.8 (#18)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "118.0 (#15)",
+              "home": "107.9 (#15)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.3 (#5)",
+              "home": "0.5 (#6)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "60.00% (#10)",
+              "home": "60.15% (#23)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "65.89% (#18)",
+              "home": "64.41% (#12)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.3 (#12)",
+              "home": "6.8 (#12)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "37.4 (#3)",
+              "home": "36.9 (#27)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "259.3 (#2)",
+              "home": "233.5 (#24)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "3.01% (#29)",
+              "home": "1.36% (#26)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "5.08% (#10)",
+              "home": "6.05% (#22)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "54.39% (#24)",
+              "home": "56.59% (#13)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "59.45% (#29)",
+              "home": "67.41% (#22)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.0 (#21)",
+              "home": "7.0 (#17)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "31.8 (#19)",
+              "home": "33.8 (#20)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "207.3 (#18)",
+              "home": "229.3 (#22)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.36% (#22)",
+              "home": "0.37% (#31)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "8.96% (#25)",
+              "home": "3.23% (#31)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "90.00% (#10)",
+              "home": "78.95% (#9)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "100.00% (#1)",
+              "home": "72.22% (#4)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.6 (#27)",
+              "home": "+0.5 (#23)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.5 (#25)",
+              "home": "0.6 (#29)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.9 (#22)",
+              "home": "1.1 (#16)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "3.01% (#29)",
+              "home": "1.36% (#26)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.5 (#23)",
+              "home": "+0.6 (#27)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.1 (#16)",
+              "home": "0.9 (#22)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.6 (#29)",
+              "home": "1.5 (#25)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.36% (#22)",
+              "home": "0.37% (#31)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#3)",
+              "home": "0.07 (#2)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.0 (#5)",
+              "home": "9.3 (#2)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "48.5 (#8)",
+              "home": "79.1 (#2)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.1 (#18)",
+              "home": "8.6 (#9)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#23)",
+              "home": "0.05 (#22)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "8.0 (#27)",
+              "home": "6.5 (#21)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "70.0 (#29)",
+              "home": "45.0 (#29)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.8 (#30)",
+              "home": "6.9 (#29)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "50.18% (#16)",
+              "home": "49.20% (#13)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "50.80% (#13)",
+              "home": "49.82% (#16)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:21:26.406830"
+      }
+    },
+    {
+      "id": "d0bf341e7959d69b55f1a8ff09065234",
+      "home_team": "Las Vegas Raiders",
+      "away_team": "Jacksonville Jaguars",
+      "commence_time": "2025-11-02T21:05:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Jacksonville Jaguars": {
+            "line": -3.0,
+            "odds": 100
+          },
+          "Las Vegas Raiders": {
+            "line": 3.0,
+            "odds": -120
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 43.5,
+            "odds": -115
+          },
+          "Under": {
+            "line": 43.5,
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "Jacksonville Jaguars": -155,
+          "Las Vegas Raiders": 130
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/jaguars-raiders-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "20.9 (#24)",
+              "home": "25.7 (#23)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "334.9 (#15)",
+              "home": "328.6 (#17)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.319 (#25)",
+              "home": "0.415 (#24)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.1 (#23)",
+              "home": "5.3 (#14)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "32.98% (#31)",
+              "home": "44.94% (#29)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "53.33% (#20)",
+              "home": "75.00% (#28)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "50.00% (#23)",
+              "home": "61.54% (#19)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.4 (#18)",
+              "home": "3.0 (#24)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "14.7 (#31)",
+              "home": "22.1 (#15)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "276.4 (#30)",
+              "home": "336.9 (#21)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.262 (#29)",
+              "home": "0.363 (#13)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "4.9 (#27)",
+              "home": "5.5 (#23)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "37.93% (#19)",
+              "home": "38.64% (#17)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "45.45% (#26)",
+              "home": "57.14% (#13)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "38.89% (#32)",
+              "home": "61.90% (#21)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "1.4 (#31)",
+              "home": "2.7 (#19)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "39.08% (#25)",
+              "home": "42.17% (#16)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.7 (#8)",
+              "home": "4.0 (#10)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "25.6 (#20)",
+              "home": "26.1 (#15)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "119.7 (#14)",
+              "home": "103.4 (#13)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.9 (#16)",
+              "home": "1.3 (#30)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "43.26% (#15)",
+              "home": "37.94% (#5)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.9 (#27)",
+              "home": "3.9 (#9)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "24.3 (#26)",
+              "home": "23.1 (#9)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "93.7 (#27)",
+              "home": "91.1 (#6)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#26)",
+              "home": "0.6 (#8)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "60.92% (#8)",
+              "home": "57.83% (#17)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "58.69% (#31)",
+              "home": "67.37% (#19)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.3 (#26)",
+              "home": "7.1 (#20)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "37.0 (#5)",
+              "home": "33.7 (#19)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "215.1 (#17)",
+              "home": "225.1 (#20)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.93% (#14)",
+              "home": "1.27% (#27)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "7.17% (#22)",
+              "home": "5.98% (#23)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "56.74% (#18)",
+              "home": "62.06% (#28)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "66.18% (#17)",
+              "home": "61.87% (#6)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.0 (#19)",
+              "home": "6.9 (#15)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "29.1 (#26)",
+              "home": "36.7 (#25)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "182.7 (#28)",
+              "home": "245.7 (#27)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "4.90% (#32)",
+              "home": "3.89% (#2)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "8.52% (#24)",
+              "home": "3.02% (#32)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "71.43% (#29)",
+              "home": "85.71% (#15)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "78.57% (#21)",
+              "home": "87.50% (#19)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+1.1 (#2)",
+              "home": "+0.7 (#30)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.9 (#7)",
+              "home": "1.0 (#19)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "2.0 (#2)",
+              "home": "1.7 (#30)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.93% (#14)",
+              "home": "1.27% (#27)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.7 (#30)",
+              "home": "-1.1 (#2)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.7 (#30)",
+              "home": "2.0 (#2)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.0 (#19)",
+              "home": "0.9 (#7)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "4.90% (#32)",
+              "home": "3.89% (#2)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.07 (#31)",
+              "home": "0.06 (#14)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "9.3 (#32)",
+              "home": "7.1 (#16)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "75.4 (#30)",
+              "home": "52.3 (#23)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.1 (#20)",
+              "home": "7.3 (#26)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#13)",
+              "home": "0.05 (#23)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.4 (#11)",
+              "home": "6.3 (#22)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "52.0 (#12)",
+              "home": "56.3 (#15)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.1 (#19)",
+              "home": "9.0 (#4)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "51.81% (#9)",
+              "home": "51.41% (#22)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "48.59% (#22)",
+              "home": "48.19% (#9)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:21:37.151433"
+      }
+    },
+    {
+      "id": "b08df670a95f1809707b335dc75081c6",
+      "home_team": "Los Angeles Rams",
+      "away_team": "New Orleans Saints",
+      "commence_time": "2025-11-02T21:05:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Los Angeles Rams": {
+            "line": -14.0,
+            "odds": -115
+          },
+          "New Orleans Saints": {
+            "line": 14.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 43.5,
+            "odds": -108
+          },
+          "Under": {
+            "line": 43.5,
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "Los Angeles Rams": -1100,
+          "New Orleans Saints": 700
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/saints-rams-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "16.0 (#29)",
+              "home": "16.7 (#3)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "295.0 (#27)",
+              "home": "314.1 (#13)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.252 (#30)",
+              "home": "0.248 (#1)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "4.6 (#30)",
+              "home": "4.7 (#4)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "38.84% (#16)",
+              "home": "34.00% (#4)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "33.33% (#32)",
+              "home": "60.87% (#19)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "42.86% (#30)",
+              "home": "40.00% (#1)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "1.5 (#30)",
+              "home": "1.6 (#1)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "25.0 (#12)",
+              "home": "26.1 (#24)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "360.1 (#6)",
+              "home": "320.3 (#15)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.408 (#12)",
+              "home": "0.426 (#25)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.9 (#7)",
+              "home": "5.2 (#11)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "37.66% (#21)",
+              "home": "36.84% (#12)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "66.67% (#10)",
+              "home": "54.55% (#11)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "56.67% (#17)",
+              "home": "57.69% (#11)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.0 (#10)",
+              "home": "2.9 (#23)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "38.98% (#26)",
+              "home": "40.25% (#12)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.8 (#29)",
+              "home": "3.9 (#8)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "24.8 (#25)",
+              "home": "27.1 (#20)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "93.6 (#28)",
+              "home": "105.9 (#14)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.4 (#29)",
+              "home": "0.3 (#1)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "40.79% (#21)",
+              "home": "50.31% (#31)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.1 (#20)",
+              "home": "4.0 (#12)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "25.0 (#23)",
+              "home": "30.9 (#32)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "103.4 (#22)",
+              "home": "124.3 (#21)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.6 (#23)",
+              "home": "0.9 (#17)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "61.02% (#7)",
+              "home": "59.75% (#21)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "66.21% (#16)",
+              "home": "62.50% (#7)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.0 (#30)",
+              "home": "6.4 (#5)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "36.3 (#6)",
+              "home": "36.6 (#24)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "201.4 (#22)",
+              "home": "208.3 (#14)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.41% (#25)",
+              "home": "1.56% (#22)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "6.45% (#17)",
+              "home": "9.22% (#4)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "59.21% (#12)",
+              "home": "49.69% (#2)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "65.84% (#19)",
+              "home": "67.40% (#21)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.7 (#9)",
+              "home": "7.4 (#23)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "34.7 (#10)",
+              "home": "28.4 (#8)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "256.7 (#3)",
+              "home": "196.0 (#9)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "0.82% (#3)",
+              "home": "1.76% (#17)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "4.33% (#5)",
+              "home": "6.97% (#16)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "71.43% (#29)",
+              "home": "93.33% (#25)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "71.43% (#29)",
+              "home": "94.12% (#27)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.3 (#19)",
+              "home": "-0.4 (#10)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.5 (#25)",
+              "home": "1.4 (#7)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.3 (#11)",
+              "home": "1.0 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.41% (#25)",
+              "home": "1.56% (#22)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.4 (#10)",
+              "home": "+0.3 (#19)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.0 (#11)",
+              "home": "1.3 (#11)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.4 (#7)",
+              "home": "1.5 (#25)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "0.82% (#3)",
+              "home": "1.76% (#17)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#25)",
+              "home": "0.07 (#1)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.9 (#26)",
+              "home": "9.3 (#1)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "54.0 (#16)",
+              "home": "74.7 (#3)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "6.9 (#2)",
+              "home": "8.0 (#18)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.04 (#2)",
+              "home": "0.07 (#6)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "5.4 (#2)",
+              "home": "8.3 (#5)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "44.9 (#3)",
+              "home": "62.0 (#6)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.3 (#22)",
+              "home": "7.5 (#23)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "46.58% (#28)",
+              "home": "52.96% (#27)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "47.04% (#27)",
+              "home": "53.42% (#28)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:21:47.762748"
+      }
+    },
+    {
+      "id": "61531628516decd1ee8116da5f6f9056",
+      "home_team": "Buffalo Bills",
+      "away_team": "Kansas City Chiefs",
+      "commence_time": "2025-11-02T21:25:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Buffalo Bills": {
+            "line": 1.5,
+            "odds": -105
+          },
+          "Kansas City Chiefs": {
+            "line": -1.5,
+            "odds": -115
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 52.5,
+            "odds": -112
+          },
+          "Under": {
+            "line": 52.5,
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "Buffalo Bills": 110,
+          "Kansas City Chiefs": -130
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/chiefs-bills-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "26.8 (#7)",
+              "home": "20.9 (#9)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "378.3 (#5)",
+              "home": "312.1 (#12)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.411 (#11)",
+              "home": "0.363 (#14)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.8 (#9)",
+              "home": "5.4 (#19)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "44.00% (#6)",
+              "home": "40.24% (#23)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "82.35% (#3)",
+              "home": "62.50% (#20)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "70.59% (#5)",
+              "home": "55.00% (#9)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.3 (#5)",
+              "home": "2.4 (#15)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "29.6 (#4)",
+              "home": "16.4 (#2)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "382.9 (#3)",
+              "home": "277.8 (#4)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.473 (#5)",
+              "home": "0.310 (#6)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "6.1 (#2)",
+              "home": "5.3 (#13)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "43.75% (#7)",
+              "home": "38.37% (#16)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "60.00% (#15)",
+              "home": "25.00% (#1)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "64.29% (#12)",
+              "home": "57.89% (#12)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.6 (#3)",
+              "home": "1.9 (#4)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "43.19% (#16)",
+              "home": "47.51% (#25)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.5 (#12)",
+              "home": "5.5 (#31)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "28.1 (#9)",
+              "home": "27.3 (#22)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "126.5 (#9)",
+              "home": "150.3 (#31)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.1 (#9)",
+              "home": "1.4 (#31)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "50.46% (#1)",
+              "home": "43.26% (#18)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "5.2 (#2)",
+              "home": "4.4 (#18)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "31.6 (#1)",
+              "home": "22.9 (#7)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "164.4 (#1)",
+              "home": "100.0 (#11)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.9 (#2)",
+              "home": "0.8 (#13)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "56.81% (#17)",
+              "home": "52.49% (#8)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "67.02% (#13)",
+              "home": "64.55% (#13)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.4 (#10)",
+              "home": "6.7 (#9)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "35.3 (#9)",
+              "home": "27.0 (#3)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "251.8 (#5)",
+              "home": "161.9 (#2)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.42% (#9)",
+              "home": "1.59% (#21)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "4.73% (#8)",
+              "home": "10.43% (#2)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "49.54% (#32)",
+              "home": "56.74% (#15)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "67.49% (#12)",
+              "home": "69.51% (#28)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "8.0 (#6)",
+              "home": "6.7 (#10)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "29.0 (#28)",
+              "home": "27.9 (#6)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "218.4 (#15)",
+              "home": "177.8 (#3)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.97% (#15)",
+              "home": "2.69% (#11)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "6.45% (#17)",
+              "home": "7.08% (#14)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "80.00% (#20)",
+              "home": "83.33% (#14)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "92.31% (#6)",
+              "home": "100.00% (#30)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.6 (#6)",
+              "home": "-0.3 (#11)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.5 (#3)",
+              "home": "1.1 (#13)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.1 (#16)",
+              "home": "0.9 (#7)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.42% (#9)",
+              "home": "1.59% (#21)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.3 (#11)",
+              "home": "-0.6 (#6)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.9 (#7)",
+              "home": "1.1 (#16)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.1 (#13)",
+              "home": "0.5 (#3)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.97% (#15)",
+              "home": "2.69% (#11)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#19)",
+              "home": "0.05 (#27)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.0 (#18)",
+              "home": "5.7 (#26)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "60.4 (#22)",
+              "home": "47.4 (#27)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.6 (#29)",
+              "home": "8.3 (#12)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#20)",
+              "home": "0.05 (#28)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.3 (#20)",
+              "home": "5.5 (#29)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "58.7 (#21)",
+              "home": "48.9 (#26)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.1 (#17)",
+              "home": "8.9 (#7)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "54.18% (#3)",
+              "home": "44.60% (#1)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "55.40% (#1)",
+              "home": "45.82% (#3)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:21:58.410538"
+      }
+    },
+    {
+      "id": "c2fd8a23091a954fb21ff6d3537db826",
+      "home_team": "Washington Commanders",
+      "away_team": "Seattle Seahawks",
+      "commence_time": "2025-11-03T01:20:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Seattle Seahawks": {
+            "line": -3.0,
+            "odds": -105
+          },
+          "Washington Commanders": {
+            "line": 3.0,
+            "odds": -115
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 48.5,
+            "odds": -105
+          },
+          "Under": {
+            "line": 48.5,
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "Seattle Seahawks": -155,
+          "Washington Commanders": 130
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/seahawks-commanders-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "27.6 (#5)",
+              "home": "24.8 (#21)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "350.6 (#11)",
+              "home": "372.8 (#27)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.474 (#4)",
+              "home": "0.393 (#20)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "6.0 (#3)",
+              "home": "5.9 (#29)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "33.33% (#27)",
+              "home": "39.22% (#20)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "66.67% (#10)",
+              "home": "58.33% (#16)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "68.00% (#10)",
+              "home": "64.29% (#26)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.0 (#10)",
+              "home": "2.8 (#21)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "23.4 (#17)",
+              "home": "19.4 (#7)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "334.4 (#16)",
+              "home": "305.9 (#10)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.401 (#15)",
+              "home": "0.296 (#3)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.7 (#12)",
+              "home": "4.7 (#3)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "38.64% (#17)",
+              "home": "35.64% (#7)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "45.45% (#26)",
+              "home": "57.14% (#13)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "75.00% (#2)",
+              "home": "50.00% (#4)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.8 (#13)",
+              "home": "2.0 (#5)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "49.63% (#2)",
+              "home": "46.23% (#23)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "3.7 (#31)",
+              "home": "4.4 (#19)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "28.9 (#6)",
+              "home": "29.1 (#26)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "106.1 (#21)",
+              "home": "128.8 (#23)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.1 (#8)",
+              "home": "0.8 (#13)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "45.49% (#10)",
+              "home": "35.00% (#3)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "5.2 (#4)",
+              "home": "3.3 (#1)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "26.5 (#16)",
+              "home": "23.0 (#8)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "137.8 (#3)",
+              "home": "75.7 (#1)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.1 (#9)",
+              "home": "0.3 (#1)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "50.37% (#31)",
+              "home": "53.77% (#10)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "67.86% (#10)",
+              "home": "65.46% (#16)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "9.0 (#1)",
+              "home": "8.4 (#32)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "28.0 (#30)",
+              "home": "31.1 (#13)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "244.4 (#8)",
+              "home": "244.0 (#26)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.55% (#26)",
+              "home": "1.61% (#20)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "4.39% (#6)",
+              "home": "8.12% (#8)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "54.51% (#23)",
+              "home": "65.00% (#30)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "61.97% (#27)",
+              "home": "65.22% (#15)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.1 (#17)",
+              "home": "6.4 (#6)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "29.3 (#25)",
+              "home": "39.4 (#32)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "196.6 (#24)",
+              "home": "230.1 (#23)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.14% (#18)",
+              "home": "2.90% (#8)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "7.87% (#23)",
+              "home": "7.69% (#11)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "76.47% (#24)",
+              "home": "88.24% (#21)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "71.43% (#29)",
+              "home": "76.47% (#6)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.6 (#25)",
+              "home": "+0.6 (#27)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.7 (#30)",
+              "home": "0.6 (#29)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.1 (#13)",
+              "home": "1.3 (#19)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.55% (#26)",
+              "home": "1.61% (#20)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.6 (#27)",
+              "home": "+0.6 (#25)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.3 (#19)",
+              "home": "1.1 (#13)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.6 (#29)",
+              "home": "1.7 (#30)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.14% (#18)",
+              "home": "2.90% (#8)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.05 (#11)",
+              "home": "0.07 (#5)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.6 (#13)",
+              "home": "8.1 (#7)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "55.6 (#18)",
+              "home": "69.3 (#4)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.5 (#28)",
+              "home": "8.5 (#10)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#18)",
+              "home": "0.06 (#13)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.0 (#18)",
+              "home": "7.6 (#8)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "58.0 (#20)",
+              "home": "59.6 (#8)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.3 (#24)",
+              "home": "7.9 (#20)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "47.42% (#25)",
+              "home": "53.59% (#30)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "46.41% (#30)",
+              "home": "52.58% (#25)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:22:08.823259"
+      }
+    },
+    {
+      "id": "f3dfb574e0a542375a480534525ee6cf",
+      "home_team": "Dallas Cowboys",
+      "away_team": "Arizona Cardinals",
+      "commence_time": "2025-11-04T01:15:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Arizona Cardinals": {
+            "line": 3.0,
+            "odds": -102
+          },
+          "Dallas Cowboys": {
+            "line": -3.0,
+            "odds": -118
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 54.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 54.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Arizona Cardinals": 145,
+          "Dallas Cowboys": -175
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/cardinals-cowboys-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "21.9 (#19)",
+              "home": "31.3 (#31)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "310.3 (#22)",
+              "home": "404.6 (#31)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.347 (#22)",
+              "home": "0.480 (#31)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "4.9 (#26)",
+              "home": "6.2 (#31)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "44.79% (#5)",
+              "home": "52.43% (#32)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "57.14% (#17)",
+              "home": "50.00% (#5)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "55.56% (#18)",
+              "home": "68.75% (#28)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.3 (#21)",
+              "home": "3.8 (#31)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "30.8 (#2)",
+              "home": "22.0 (#13)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "384.1 (#2)",
+              "home": "335.7 (#19)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.478 (#3)",
+              "home": "0.344 (#10)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "6.0 (#4)",
+              "home": "5.2 (#12)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "43.16% (#8)",
+              "home": "35.29% (#6)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "77.78% (#6)",
+              "home": "53.85% (#10)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "64.52% (#11)",
+              "home": "60.00% (#15)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.5 (#4)",
+              "home": "2.3 (#12)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "39.68% (#24)",
+              "home": "45.87% (#21)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.4 (#14)",
+              "home": "4.9 (#25)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "25.0 (#23)",
+              "home": "29.9 (#28)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "110.4 (#20)",
+              "home": "146.0 (#29)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "0.7 (#20)",
+              "home": "1.3 (#24)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "40.00% (#22)",
+              "home": "37.95% (#6)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.7 (#9)",
+              "home": "4.2 (#14)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "25.8 (#19)",
+              "home": "24.3 (#12)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "120.4 (#13)",
+              "home": "100.9 (#12)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.3 (#5)",
+              "home": "1.0 (#19)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "60.32% (#9)",
+              "home": "54.13% (#12)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "66.94% (#14)",
+              "home": "68.54% (#27)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "6.5 (#24)",
+              "home": "8.2 (#31)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "34.6 (#11)",
+              "home": "33.4 (#17)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "199.9 (#23)",
+              "home": "258.6 (#31)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.65% (#11)",
+              "home": "1.50% (#25)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "9.02% (#26)",
+              "home": "5.32% (#25)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "60.00% (#10)",
+              "home": "62.05% (#27)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "70.23% (#5)",
+              "home": "63.53% (#10)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.3 (#15)",
+              "home": "6.5 (#7)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "37.4 (#3)",
+              "home": "38.0 (#28)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "263.8 (#1)",
+              "home": "234.9 (#25)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.01% (#16)",
+              "home": "1.50% (#24)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "3.24% (#2)",
+              "home": "4.32% (#28)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "86.67% (#14)",
+              "home": "100.00% (#30)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "100.00% (#1)",
+              "home": "88.24% (#21)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.1 (#18)",
+              "home": "+0.1 (#16)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.1 (#18)",
+              "home": "0.9 (#22)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "1.0 (#19)",
+              "home": "1.0 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.65% (#11)",
+              "home": "1.50% (#25)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "-0.1 (#16)",
+              "home": "+0.1 (#18)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "1.0 (#11)",
+              "home": "1.0 (#19)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.9 (#22)",
+              "home": "1.1 (#18)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "2.01% (#16)",
+              "home": "1.50% (#24)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#21)",
+              "home": "0.07 (#4)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.7 (#23)",
+              "home": "8.8 (#3)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "56.1 (#19)",
+              "home": "80.3 (#1)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.3 (#4)",
+              "home": "9.2 (#2)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#27)",
+              "home": "0.06 (#16)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "8.4 (#29)",
+              "home": "7.4 (#10)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "69.4 (#28)",
+              "home": "69.1 (#5)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "8.3 (#23)",
+              "home": "9.3 (#1)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "52.78% (#7)",
+              "home": "50.93% (#19)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "49.07% (#19)",
+              "home": "47.22% (#7)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:22:19.159542"
+      }
+    },
+    {
+      "id": "13bdffda97e8fb13179fe3f2f69d66f8",
+      "home_team": "Denver Broncos",
+      "away_team": "Las Vegas Raiders",
+      "commence_time": "2025-11-07T01:15:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Denver Broncos": {
+            "line": -10.5,
+            "odds": -110
+          },
+          "Las Vegas Raiders": {
+            "line": 10.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 42.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 42.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Denver Broncos": -575,
+          "Las Vegas Raiders": 425
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/raiders-broncos-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:22:30.567533"
+      }
+    },
+    {
+      "id": "42473c1ddf8f424069ff3f264dd8dca4",
+      "home_team": "Indianapolis Colts",
+      "away_team": "Atlanta Falcons",
+      "commence_time": "2025-11-09T14:30:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Atlanta Falcons": {
+            "line": 6.5,
+            "odds": 100
+          },
+          "Indianapolis Colts": {
+            "line": -6.5,
+            "odds": -120
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 48.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 48.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Atlanta Falcons": 270,
+          "Indianapolis Colts": -340
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/falcons-colts-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:22:37.792773"
+      }
+    },
+    {
+      "id": "9900b89c4776c5b47dd26ca4c755edf9",
+      "home_team": "Minnesota Vikings",
+      "away_team": "Baltimore Ravens",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Baltimore Ravens": {
+            "line": -4.5,
+            "odds": -105
+          },
+          "Minnesota Vikings": {
+            "line": 4.5,
+            "odds": -115
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 47.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 47.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Baltimore Ravens": -218,
+          "Minnesota Vikings": 180
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/ravens-vikings-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:22:45.069248"
+      }
+    },
+    {
+      "id": "3c10bc18680995136017c3bfd3152334",
+      "home_team": "Miami Dolphins",
+      "away_team": "Buffalo Bills",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Buffalo Bills": {
+            "line": -8.5,
+            "odds": -110
+          },
+          "Miami Dolphins": {
+            "line": 8.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 50.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 50.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Buffalo Bills": -410,
+          "Miami Dolphins": 320
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/bills-dolphins-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:22:53.395714"
+      }
+    },
+    {
+      "id": "21f47a328fb2ab65c01360a7a2bd9571",
+      "home_team": "Carolina Panthers",
+      "away_team": "New Orleans Saints",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Carolina Panthers": {
+            "line": -3.5,
+            "odds": -110
+          },
+          "New Orleans Saints": {
+            "line": 3.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 41.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 41.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Carolina Panthers": -180,
+          "New Orleans Saints": 150
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/saints-panthers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:01.934194"
+      }
+    },
+    {
+      "id": "3b1a97366685a96e6e1940ae56cc4d31",
+      "home_team": "Chicago Bears",
+      "away_team": "New York Giants",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Chicago Bears": {
+            "line": -3.0,
+            "odds": -115
+          },
+          "New York Giants": {
+            "line": 3.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 47.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 47.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Chicago Bears": -166,
+          "New York Giants": 140
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/giants-bears-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:09.086753"
+      }
+    },
+    {
+      "id": "844b89333f293f055f8e0c147fb9fec5",
+      "home_team": "New York Jets",
+      "away_team": "Cleveland Browns",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Cleveland Browns": {
+            "line": 1.5,
+            "odds": -110
+          },
+          "New York Jets": {
+            "line": -1.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 38.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 38.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Cleveland Browns": 105,
+          "New York Jets": -125
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/browns-jets-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:16.427231"
+      }
+    },
+    {
+      "id": "9dbf94f23521c7cae7fd89b2d33fc3bd",
+      "home_team": "Houston Texans",
+      "away_team": "Jacksonville Jaguars",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Houston Texans": {
+            "line": -3.0,
+            "odds": -115
+          },
+          "Jacksonville Jaguars": {
+            "line": 3.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 41.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 41.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Houston Texans": -166,
+          "Jacksonville Jaguars": 140
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/jaguars-texans-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:24.946761"
+      }
+    },
+    {
+      "id": "39e7c1f6e36d5bc4d2613ebf7bb83c10",
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "New England Patriots",
+      "commence_time": "2025-11-09T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "New England Patriots": {
+            "line": 2.5,
+            "odds": -105
+          },
+          "Tampa Bay Buccaneers": {
+            "line": -2.5,
+            "odds": -115
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 48.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 48.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "New England Patriots": 124,
+          "Tampa Bay Buccaneers": -148
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/patriots-buccaneers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:34.300893"
+      }
+    },
+    {
+      "id": "740b843794cc89176c4ffe38b66d30d9",
+      "home_team": "Seattle Seahawks",
+      "away_team": "Arizona Cardinals",
+      "commence_time": "2025-11-09T21:05:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Arizona Cardinals": {
+            "line": 6.5,
+            "odds": -110
+          },
+          "Seattle Seahawks": {
+            "line": -6.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Arizona Cardinals": 225,
+          "Seattle Seahawks": -278
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/cardinals-seahawks-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:41.776429"
+      }
+    },
+    {
+      "id": "93365f943b3aa23705bc9e1c7b47d7f8",
+      "home_team": "Washington Commanders",
+      "away_team": "Detroit Lions",
+      "commence_time": "2025-11-09T21:25:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Detroit Lions": {
+            "line": -3.0,
+            "odds": -115
+          },
+          "Washington Commanders": {
+            "line": 3.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 51.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 51.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Detroit Lions": -170,
+          "Washington Commanders": 142
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/lions-commanders-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:49.068628"
+      }
+    },
+    {
+      "id": "2710103fe4fb0170ae03b4e34bde8132",
+      "home_team": "San Francisco 49ers",
+      "away_team": "Los Angeles Rams",
+      "commence_time": "2025-11-09T21:25:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Los Angeles Rams": {
+            "line": -3.0,
+            "odds": -110
+          },
+          "San Francisco 49ers": {
+            "line": 3.0,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 48.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 48.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Los Angeles Rams": -162,
+          "San Francisco 49ers": 136
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/rams-49ers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:23:56.631329"
+      }
+    },
+    {
+      "id": "349d53a4f89591312ea528e81b786474",
+      "home_team": "Los Angeles Chargers",
+      "away_team": "Pittsburgh Steelers",
+      "commence_time": "2025-11-10T01:20:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Los Angeles Chargers": {
+            "line": -4.5,
+            "odds": -110
+          },
+          "Pittsburgh Steelers": {
+            "line": 4.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 46.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 46.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Los Angeles Chargers": -205,
+          "Pittsburgh Steelers": 170
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/steelers-chargers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:24:03.571798"
+      }
+    },
+    {
+      "id": "438868ff90501a1fe9a0fbecbee9dc12",
+      "home_team": "Green Bay Packers",
+      "away_team": "Philadelphia Eagles",
+      "commence_time": "2025-11-11T01:15:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Green Bay Packers": {
+            "line": -3.0,
+            "odds": -115
+          },
+          "Philadelphia Eagles": {
+            "line": 3.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Green Bay Packers": -166,
+          "Philadelphia Eagles": 140
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/eagles-packers-week-9-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Baltimore @ Miami",
+              "away": "8:15 PM",
+              "home": "Hard Rock Stadium"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-01T23:24:12.379242"
+      }
+    }
+  ],
+  "last_updated": "2025-11-01T23:24:14.502129",
+  "data_sources": {
+    "odds": "The Odds API",
+    "betting_percentages": "SportsBettingDime",
+    "matchup_stats": "TeamRankings"
+  }
+}

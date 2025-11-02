@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-01T23:24:14.509338",
+  "total_alerts": 1,
+  "alerts": [
+    {
+      "type": "line_movement",
+      "game": "New Orleans Saints @ Los Angeles Rams",
+      "title": "\ud83d\udcc8 LARGE SPREAD: Los Angeles Rams -14.0",
+      "description": "Unusually large line suggests significant early movement",
+      "reasoning": "Big spreads often indicate injury news or sharp action moved the line dramatically.",
+      "data": {
+        "current_line": -14.0
+      },
+      "priority": "MEDIUM",
+      "game_id": "b08df670a95f1809707b335dc75081c6"
+    }
+  ]
+}
