@@ -1,0 +1,1084 @@
+{
+  "week": 10,
+  "games": [
+    {
+      "id": "438868ff90501a1fe9a0fbecbee9dc12",
+      "home_team": "Green Bay Packers",
+      "away_team": "Philadelphia Eagles",
+      "commence_time": "2025-11-11T01:15:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Green Bay Packers": {
+            "line": -1.5,
+            "odds": -102
+          },
+          "Philadelphia Eagles": {
+            "line": 1.5,
+            "odds": -118
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -112
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "Green Bay Packers": -118,
+          "Philadelphia Eagles": -102
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/eagles-packers-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Points/Game",
+              "away": "26.0 (#10)",
+              "home": "20.8 (#9)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "304.4 (#23)",
+              "home": "286.4 (#5)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.454 (#4)",
+              "home": "0.334 (#7)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.3 (#17)",
+              "home": "4.6 (#2)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "33.33% (#30)",
+              "home": "34.62% (#7)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "78.57% (#5)",
+              "home": "64.71% (#21)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "85.00% (#1)",
+              "home": "63.64% (#22)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "3.3 (#7)",
+              "home": "2.1 (#7)"
+            }
+          ],
+          "Table 2": [
+            {
+              "stat": "Points/Game",
+              "away": "25.8 (#11)",
+              "home": "23.1 (#15)"
+            },
+            {
+              "stat": "Yards/Game",
+              "away": "360.4 (#10)",
+              "home": "336.3 (#20)"
+            },
+            {
+              "stat": "Points/Play",
+              "away": "0.421 (#11)",
+              "home": "0.369 (#11)"
+            },
+            {
+              "stat": "Yards/Play",
+              "away": "5.9 (#6)",
+              "home": "5.4 (#16)"
+            },
+            {
+              "stat": "3D Conversion %",
+              "away": "49.00% (#1)",
+              "home": "42.86% (#27)"
+            },
+            {
+              "stat": "4D Conversion %",
+              "away": "72.73% (#7)",
+              "home": "50.00% (#6)"
+            },
+            {
+              "stat": "RZ Scoring % (TD)",
+              "away": "62.86% (#12)",
+              "home": "46.15% (#2)"
+            },
+            {
+              "stat": "TDs/Game",
+              "away": "2.9 (#12)",
+              "home": "2.3 (#9)"
+            }
+          ],
+          "Table 3": [
+            {
+              "stat": "Rush Play %",
+              "away": "47.60% (#4)",
+              "home": "36.42% (#2)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.1 (#22)",
+              "home": "4.0 (#8)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "27.3 (#14)",
+              "home": "22.6 (#4)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "111.6 (#21)",
+              "home": "89.4 (#2)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.1 (#10)",
+              "home": "0.6 (#5)"
+            }
+          ],
+          "Table 4": [
+            {
+              "stat": "Rush Play %",
+              "away": "46.63% (#10)",
+              "home": "43.31% (#17)"
+            },
+            {
+              "stat": "Yards/Rush",
+              "away": "4.0 (#26)",
+              "home": "4.4 (#20)"
+            },
+            {
+              "stat": "Rushes/Game",
+              "away": "28.5 (#7)",
+              "home": "27.1 (#20)"
+            },
+            {
+              "stat": "Rush Yards/Game",
+              "away": "112.9 (#20)",
+              "home": "120.4 (#19)"
+            },
+            {
+              "stat": "Rush TDs/Game",
+              "away": "1.3 (#5)",
+              "home": "1.3 (#27)"
+            }
+          ],
+          "Table 5": [
+            {
+              "stat": "Pass Play %",
+              "away": "52.40% (#29)",
+              "home": "63.58% (#31)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "70.23% (#5)",
+              "home": "66.67% (#21)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "7.8 (#8)",
+              "home": "5.8 (#1)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "26.9 (#30)",
+              "home": "36.8 (#27)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "192.8 (#24)",
+              "home": "197.0 (#11)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "0.47% (#1)",
+              "home": "1.02% (#29)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "10.42% (#28)",
+              "home": "6.96% (#17)"
+            }
+          ],
+          "Table 6": [
+            {
+              "stat": "Pass Play %",
+              "away": "53.37% (#23)",
+              "home": "56.69% (#16)"
+            },
+            {
+              "stat": "Completion %",
+              "away": "70.80% (#3)",
+              "home": "59.33% (#3)"
+            },
+            {
+              "stat": "Yards/Pass",
+              "away": "8.3 (#3)",
+              "home": "6.7 (#7)"
+            },
+            {
+              "stat": "Passes/Game",
+              "away": "31.3 (#20)",
+              "home": "33.5 (#20)"
+            },
+            {
+              "stat": "Pass Yards/Game",
+              "away": "247.5 (#6)",
+              "home": "215.9 (#17)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.20% (#6)",
+              "home": "1.87% (#21)"
+            },
+            {
+              "stat": "QB Sacked %",
+              "away": "4.21% (#3)",
+              "home": "5.63% (#25)"
+            }
+          ],
+          "Table 7": [
+            {
+              "stat": "FG Conversion %",
+              "away": "77.78% (#25)",
+              "home": "78.95% (#7)"
+            }
+          ],
+          "Table 8": [
+            {
+              "stat": "FG Conversion %",
+              "away": "75.00% (#27)",
+              "home": "86.36% (#17)"
+            }
+          ],
+          "Table 9": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "+0.5 (#9)",
+              "home": "0.0 (#15)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.4 (#1)",
+              "home": "0.6 (#29)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.9 (#25)",
+              "home": "0.6 (#4)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "0.47% (#1)",
+              "home": "1.02% (#29)"
+            }
+          ],
+          "Table 10": [
+            {
+              "stat": "TO Margin/Game",
+              "away": "0.0 (#15)",
+              "home": "-0.5 (#9)"
+            },
+            {
+              "stat": "Giveaways/Game",
+              "away": "0.6 (#4)",
+              "home": "0.9 (#25)"
+            },
+            {
+              "stat": "Takeaways/Game",
+              "away": "0.6 (#29)",
+              "home": "0.4 (#1)"
+            },
+            {
+              "stat": "Int Thrown %",
+              "away": "1.20% (#6)",
+              "home": "1.87% (#21)"
+            }
+          ],
+          "Table 11": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#16)",
+              "home": "0.05 (#22)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "6.8 (#15)",
+              "home": "6.4 (#22)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "60.8 (#25)",
+              "home": "53.9 (#19)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "9.0 (#32)",
+              "home": "8.5 (#9)"
+            }
+          ],
+          "Table 12": [
+            {
+              "stat": "Penalties/Play",
+              "away": "0.06 (#28)",
+              "home": "0.05 (#23)"
+            },
+            {
+              "stat": "Penalties/Game",
+              "away": "7.8 (#26)",
+              "home": "5.9 (#25)"
+            },
+            {
+              "stat": "Penalty Yds/Game",
+              "away": "58.5 (#23)",
+              "home": "53.5 (#20)"
+            },
+            {
+              "stat": "Penalty Yds/Pen",
+              "away": "7.5 (#7)",
+              "home": "9.1 (#2)"
+            }
+          ],
+          "Table 13": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "50.02% (#18)",
+              "home": "49.44% (#14)"
+            }
+          ],
+          "Table 14": [
+            {
+              "stat": "TOP % (excl OT)",
+              "away": "50.56% (#14)",
+              "home": "49.98% (#18)"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:51:34.933318"
+      }
+    },
+    {
+      "id": "32ec2bd4ac9e4c40f9f5cbed7e67f837",
+      "home_team": "New England Patriots",
+      "away_team": "New York Jets",
+      "commence_time": "2025-11-14T01:15:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "New England Patriots": {
+            "line": -10.5,
+            "odds": -110
+          },
+          "New York Jets": {
+            "line": 10.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "New England Patriots": -535,
+          "New York Jets": 400
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/jets-patriots-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:51:48.489290"
+      }
+    },
+    {
+      "id": "265f0188945bb81ec64751571eb724cb",
+      "home_team": "Miami Dolphins",
+      "away_team": "Washington Commanders",
+      "commence_time": "2025-11-16T14:30:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Miami Dolphins": {
+            "line": -2.5,
+            "odds": -105
+          },
+          "Washington Commanders": {
+            "line": 2.5,
+            "odds": -115
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 47.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 47.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Miami Dolphins": -130,
+          "Washington Commanders": 110
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/commanders-dolphins-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:51:59.776305"
+      }
+    },
+    {
+      "id": "0ae85bbc3711ad0cb94475a40e2364f0",
+      "home_team": "Atlanta Falcons",
+      "away_team": "Carolina Panthers",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Atlanta Falcons": {
+            "line": -3.5,
+            "odds": -115
+          },
+          "Carolina Panthers": {
+            "line": 3.5,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 42.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 42.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Atlanta Falcons": -198,
+          "Carolina Panthers": 164
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/panthers-falcons-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:52:11.137666"
+      }
+    },
+    {
+      "id": "96377d2fb55e3cef733cecccdecaed5f",
+      "home_team": "Buffalo Bills",
+      "away_team": "Tampa Bay Buccaneers",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Buffalo Bills": {
+            "line": -5.5,
+            "odds": -108
+          },
+          "Tampa Bay Buccaneers": {
+            "line": 5.5,
+            "odds": -112
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 50.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 50.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Buffalo Bills": -230,
+          "Tampa Bay Buccaneers": 190
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/buccaneers-bills-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:52:36.861838"
+      }
+    },
+    {
+      "id": "229a5e9ce60dcb344a8cc3c97121154e",
+      "home_team": "Minnesota Vikings",
+      "away_team": "Chicago Bears",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Chicago Bears": {
+            "line": 3.0,
+            "odds": -115
+          },
+          "Minnesota Vikings": {
+            "line": -3.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 46.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 46.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Chicago Bears": 136,
+          "Minnesota Vikings": -162
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/bears-vikings-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:52:39.055643"
+      }
+    },
+    {
+      "id": "7147476b5d96c0ee874b838de3910ee3",
+      "home_team": "Pittsburgh Steelers",
+      "away_team": "Cincinnati Bengals",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Cincinnati Bengals": {
+            "line": 5.5,
+            "odds": -110
+          },
+          "Pittsburgh Steelers": {
+            "line": -5.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 49.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 49.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Cincinnati Bengals": 195,
+          "Pittsburgh Steelers": -238
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/bengals-steelers-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:52:46.091359"
+      }
+    },
+    {
+      "id": "5c06e82838fcfade9adf1e89b8bd3081",
+      "home_team": "New York Giants",
+      "away_team": "Green Bay Packers",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Green Bay Packers": {
+            "line": -7.5,
+            "odds": -110
+          },
+          "New York Giants": {
+            "line": 7.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Green Bay Packers": -395,
+          "New York Giants": 310
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/packers-giants-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:52:53.369691"
+      }
+    },
+    {
+      "id": "fd2f29289d6437a7c07d4780c5f04936",
+      "home_team": "Tennessee Titans",
+      "away_team": "Houston Texans",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Houston Texans": {
+            "line": -7.5,
+            "odds": -110
+          },
+          "Tennessee Titans": {
+            "line": 7.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 38.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 38.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Houston Texans": -355,
+          "Tennessee Titans": 280
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/texans-titans-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:00.682114"
+      }
+    },
+    {
+      "id": "591fd7cff37201a14cbdfbd457592445",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Los Angeles Chargers",
+      "commence_time": "2025-11-16T18:00:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Jacksonville Jaguars": {
+            "line": 2.5,
+            "odds": 100
+          },
+          "Los Angeles Chargers": {
+            "line": -2.5,
+            "odds": -120
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 45.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 45.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Jacksonville Jaguars": 124,
+          "Los Angeles Chargers": -148
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/chargers-jaguars-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:10.449229"
+      }
+    },
+    {
+      "id": "91630b9c62640117918fa30d2a62d2db",
+      "home_team": "Arizona Cardinals",
+      "away_team": "San Francisco 49ers",
+      "commence_time": "2025-11-16T21:05:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Arizona Cardinals": {
+            "line": 2.5,
+            "odds": -110
+          },
+          "San Francisco 49ers": {
+            "line": -2.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 47.5,
+            "odds": -108
+          },
+          "Under": {
+            "line": 47.5,
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "Arizona Cardinals": 124,
+          "San Francisco 49ers": -148
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/49ers-cardinals-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:30.282261"
+      }
+    },
+    {
+      "id": "e926e654cedeb65fcfcc389a5158ef4e",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Seattle Seahawks",
+      "commence_time": "2025-11-16T21:05:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Los Angeles Rams": {
+            "line": -2.5,
+            "odds": -110
+          },
+          "Seattle Seahawks": {
+            "line": 2.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 48.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 48.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Los Angeles Rams": -142,
+          "Seattle Seahawks": 120
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/seahawks-rams-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:24.745802"
+      }
+    },
+    {
+      "id": "cc60225b5a907bd9ba7c27c23131fc5c",
+      "home_team": "Cleveland Browns",
+      "away_team": "Baltimore Ravens",
+      "commence_time": "2025-11-16T21:25:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Baltimore Ravens": {
+            "line": -8.5,
+            "odds": -110
+          },
+          "Cleveland Browns": {
+            "line": 8.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 41.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 41.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Baltimore Ravens": -425,
+          "Cleveland Browns": 330
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/ravens-browns-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:32.147528"
+      }
+    },
+    {
+      "id": "96ce7785b0980b03282c7e10d4c58d4a",
+      "home_team": "Denver Broncos",
+      "away_team": "Kansas City Chiefs",
+      "commence_time": "2025-11-16T21:25:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Denver Broncos": {
+            "line": 3.5,
+            "odds": -110
+          },
+          "Kansas City Chiefs": {
+            "line": -3.5,
+            "odds": -110
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 43.5,
+            "odds": -115
+          },
+          "Under": {
+            "line": 43.5,
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "Denver Broncos": 160,
+          "Kansas City Chiefs": -192
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/chiefs-broncos-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:45.808213"
+      }
+    },
+    {
+      "id": "6d209e0e637f3b116ec958e0634f2a02",
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Detroit Lions",
+      "commence_time": "2025-11-17T01:20:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Detroit Lions": {
+            "line": 1.5,
+            "odds": -120
+          },
+          "Philadelphia Eagles": {
+            "line": -1.5,
+            "odds": 100
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 49.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 49.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Detroit Lions": -108,
+          "Philadelphia Eagles": -112
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/lions-eagles-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:53:53.223181"
+      }
+    },
+    {
+      "id": "80d04ba917883a6438580ebae9fb0f22",
+      "home_team": "Las Vegas Raiders",
+      "away_team": "Dallas Cowboys",
+      "commence_time": "2025-11-18T01:15:00Z",
+      "odds": {
+        "bookmaker": "DraftKings",
+        "spreads": {
+          "Dallas Cowboys": {
+            "line": -3.0,
+            "odds": -115
+          },
+          "Las Vegas Raiders": {
+            "line": 3.0,
+            "odds": -105
+          }
+        },
+        "totals": {
+          "Over": {
+            "line": 50.5,
+            "odds": -110
+          },
+          "Under": {
+            "line": 50.5,
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "Dallas Cowboys": -170,
+          "Las Vegas Raiders": 142
+        }
+      },
+      "betting_percentages": {},
+      "matchup_stats": {
+        "url": "https://www.teamrankings.com/nfl/matchup/cowboys-raiders-week-10-2025/stats",
+        "offense_vs_defense": {
+          "Table 1": [
+            {
+              "stat": "Las Vegas @ Denver",
+              "away": "8:15 PM",
+              "home": "Empower Field at Mile High"
+            }
+          ]
+        },
+        "scraped_at": "2025-11-09T22:54:00.052007"
+      }
+    }
+  ],
+  "last_updated": "2025-11-09T22:54:02.164849",
+  "data_sources": {
+    "odds": "The Odds API",
+    "betting_percentages": "SportsBettingDime",
+    "matchup_stats": "TeamRankings"
+  }
+}

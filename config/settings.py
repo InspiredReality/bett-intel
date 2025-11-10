@@ -12,6 +12,7 @@ load_dotenv()
 
 # API Keys
 ODDS_API_KEY = os.getenv('ODDS_API_KEY', '')
+SPORTSDATA_API_KEY = os.getenv('SPORTSDATA_API_KEY', '')
 
 # Paths
 BASE_DIR = Path(__file__).parent.parent

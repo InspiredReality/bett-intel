@@ -1,0 +1,17 @@
+away_team,home_team,total_line,total_line_est,total_diff,away_spread_est,away_pts_est,home_pts_est,away_off_ppg,away_off_ppg_rank,home_def_ppg,home_def_ppg_rank,home_off_ppg,home_off_ppg_rank,away_def_ppg,away_def_ppg_rank,away_off_ypg,home_def_ypg,home_off_ypg,away_def_ypg,away_tds_per_game,home_tds_per_game
+Philadelphia Eagles,Green Bay Packers,45.5,48.3,2.8,0.9,23.7,24.6,26.0,10,20.8,9,25.8,11,23.1,15,304.4 (#23),286.4 (#5),360.4 (#10),336.3 (#20),2.9 (#12),2.3 (#9)
+New York Jets,New England Patriots,45.5,,,,,,,,,,,,,,,,,,,
+Washington Commanders,Miami Dolphins,47.5,,,,,,,,,,,,,,,,,,,
+Carolina Panthers,Atlanta Falcons,42.5,,,,,,,,,,,,,,,,,,,
+Tampa Bay Buccaneers,Buffalo Bills,50.5,,,,,,,,,,,,,,,,,,,
+Chicago Bears,Minnesota Vikings,46.5,,,,,,,,,,,,,,,,,,,
+Cincinnati Bengals,Pittsburgh Steelers,49.5,,,,,,,,,,,,,,,,,,,
+Green Bay Packers,New York Giants,45.5,,,,,,,,,,,,,,,,,,,
+Houston Texans,Tennessee Titans,38.5,,,,,,,,,,,,,,,,,,,
+Los Angeles Chargers,Jacksonville Jaguars,45.5,,,,,,,,,,,,,,,,,,,
+San Francisco 49ers,Arizona Cardinals,47.5,,,,,,,,,,,,,,,,,,,
+Seattle Seahawks,Los Angeles Rams,48.5,,,,,,,,,,,,,,,,,,,
+Baltimore Ravens,Cleveland Browns,41.5,,,,,,,,,,,,,,,,,,,
+Kansas City Chiefs,Denver Broncos,43.5,,,,,,,,,,,,,,,,,,,
+Detroit Lions,Philadelphia Eagles,49.5,,,,,,,,,,,,,,,,,,,
+Dallas Cowboys,Las Vegas Raiders,50.5,,,,,,,,,,,,,,,,,,,
